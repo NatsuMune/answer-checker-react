@@ -1,0 +1,339 @@
+{
+  "answers": [
+    {
+      "seq": 1,
+      "answer": "B",
+      "explanation": "Ice pellets always indicate freezing rain at higher altitude Reference: AC 00-6B"
+    },
+    {
+      "seq": 2,
+      "answer": "A",
+      "explanation": "Part 107 a sUAS operations require the minimum distance of the small unmanned aircraft from clouds must be no less than 500 feet below the cloud and 2,000 feet horizontally from the cloud. Reference: 14 CFR 107.51"
+    },
+    {
+      "seq": 3,
+      "answer": "C",
+      "explanation": "Fog is more likely to form when the temperature and dew point convergence. A difference between these two temperatures of 3 degrees C (or 5 degrees F) is indicative of possible fog formation. Reference: AC 00-6B"
+    },
+    {
+      "seq": 4,
+      "answer": "C",
+      "explanation": "A thunderstorm is, in general, a local storm invariably produced by a cumulonimbus cloud, and is always accompanied by lightning and thunder. Reference: AC 00-6B"
+    },
+    {
+      "seq": 5,
+      "answer": "C",
+      "explanation": "The propeller produces thrust in proportion to the mass of air being accelerated through the rotating blades. If the air is less dense, propeller efficiency is decreased. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 6,
+      "answer": "A",
+      "explanation": "Characteristics of a moist unstable air mass include cumuliform clouds, showery precipitation, rough air (turbulence), and good visibility (except in blowing obstructions) Reference: AC 00-6B"
+    },
+    {
+      "seq": 7,
+      "answer": "B",
+      "explanation": "A condition favorable for rapid accumulation of clear icing is freezing rain below a frontal surface. Reference: AC 00-6B"
+    },
+    {
+      "seq": 8,
+      "answer": "A",
+      "explanation": "Wind direction always changes across a front Reference: AC 00-6B"
+    },
+    {
+      "seq": 9,
+      "answer": "B",
+      "explanation": "Characteristics of a stable air mass include stratiform clouds and fog, continuous precipitation, smooth air, and fair to poor visibility in haze and smoke. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 10,
+      "answer": "C",
+      "explanation": "An individual microburst will seldom last longer than 15 minutes from the time it strikes the ground until dissipation. However, there may be multiple microbursts in the area. Reference: AIM 7-1-25"
+    },
+    {
+      "seq": 11,
+      "answer": "A",
+      "explanation": "Between 1000Z and 1200Z, the visibility at KMEM is forecast to be 3 statute miles (BECMG 1012... 3SM) Reference: AC 00-45"
+    },
+    {
+      "seq": 12,
+      "answer": "C",
+      "explanation": "\"SH\" stands for showers and \"RA\" stands for rain. Reference: AC 00-45"
+    },
+    {
+      "seq": 13,
+      "answer": "C",
+      "explanation": "Crew members must operate a sUAS Part 107 operations with a minimum visibility, as observed from the location of the control station, no less than 3 statute miles. Reference: 14 CFR 107.51"
+    },
+    {
+      "seq": 14,
+      "answer": "B",
+      "explanation": "From 1600Z until the end of the forecast, wind will be variable in direction at 6 knots (VRB06KT) Reference: AC 00-45"
+    },
+    {
+      "seq": 15,
+      "answer": "A",
+      "explanation": "The difference between the existing lapse rate of a given mass of air and the adiabatic rates of cooling in upward moving air determines if the air is stable or unstable. Reference: AC 00-6B"
+    },
+    {
+      "seq": 16,
+      "answer": "B",
+      "explanation": "On a hot day, the air becomes \"thinner\" or lighter, and its density is equivalent to a higher altitude in the standard atmosphere, thus the term \"high density altitude\" Reference: AC 00-6B"
+    },
+    {
+      "seq": 17,
+      "answer": "B",
+      "explanation": "Steam fog forms in the winter when cold, dry air passes from land areas over comparatively warm ocean waters. Low level turbulence can occur and icing can become hazardous in a steam fog. Reference: AC 00-6B"
+    },
+    {
+      "seq": 18,
+      "answer": "A",
+      "explanation": "The wind is reported as a five digit group (six digits if speed is over 99 knots). The first three digits is the direction the wind is blowing from rounded to the nearest tens of degrees relative to true (not magnetic) north, or \"VRB\" if the direction is variable. The next two digits is the speed in knots or if over 99 knots, the next three digits. If the wind is gusty, it is reported as a \"G\" after the speed followed by the highest gust reported. The abbreviation \"KT\" is appended to denote the use of knots for wind speed. The wind group for KJFK is 18004KT which means the wind from 180 degrees at 4 knots. Reference: AC 00-45"
+    },
+    {
+      "seq": 19,
+      "answer": "B",
+      "explanation": "Downdrafts characterize the dissipating stage of the thunderstorm cell and the storm dies rapidly. Reference: AC 00-6B"
+    },
+    {
+      "seq": 20,
+      "answer": "A",
+      "explanation": "Unmanned aircraft often have limited performance and therefore in high wind conditions, it may consume more power to maintain position or other maneuvers than in calm air. If the wind is strong enough, the sUAS's performance might not be able to adequately counter the wind, making it impossible to fly back to you for recovery. Reference: FAA-H-8083-25, 14 CFR Part 107.49"
+    },
+    {
+      "seq": 21,
+      "answer": "C",
+      "explanation": "Conditions favorable for radiation fog are clear sky, little or no wind, and small temperature/ dew point spread (high relative humidity). Radiation fog is restricted to land because water surfaces cool little from nighttime radiation. Reference: AC 00-6B"
+    },
+    {
+      "seq": 22,
+      "answer": "A",
+      "explanation": "All altimeter settings are corrected to sea level, unequal heating of the Earth's surface causes pressure differences. Reference: AC 00-6B"
+    },
+    {
+      "seq": 23,
+      "answer": "C",
+      "explanation": "A squall line is a non-frontal, narrow band of active thunderstorms. The line may be too long to easily detour and too wide and severe to penetrate. It often contains severe steady state thunderstorms and presents the single, most intense weather hazard to aircraft Reference: AC 00-6B"
+    },
+    {
+      "seq": 24,
+      "answer": "A",
+      "explanation": "For a cumulonimbus cloud or thunderstorm to form the air must have:\n1. Sufficient water vapor\n2. An unstable lapse rate\n3. An initial upward boost (lifting) to start the storm process in motion\nReference: AC 00-6B"
+    },
+    {
+      "seq": 25,
+      "answer": "B",
+      "explanation": "The key feature of the cumulus stage is an updraft. Precipitation beginning to fall from the cloud base is the signal that a downdraft has developed also and a cell has entered the mature stage. Reference: AC 00-6B"
+    },
+    {
+      "seq": 26,
+      "answer": "C",
+      "explanation": "Weather factors can greatly influence a sUAS performance and safety of flight Reference: AC 107-2"
+    },
+    {
+      "seq": 27,
+      "answer": "C",
+      "explanation": "Advection fog forms when moist air moves over colder ground or water. It is most common along coastal areas, but often develops deep in continental areas. Advection fog deepens as wind speed increases up to about 15 knots. Wind much stronger than 15 knots lifts the fog into a layer of low stratus or stratocumulus. Upslope fog forms as a result of moist, stable air being cooked adiabatically as it moves up sloping terrain. Once upslope wind ceases, the fog dissipates. Reference: AC 00-6B"
+    },
+    {
+      "seq": 28,
+      "answer": "A",
+      "explanation": "All thunderstorms hazards reach their greatest intensity during the mature stage. Reference: AC 00-6B"
+    },
+    {
+      "seq": 29,
+      "answer": "A",
+      "explanation": "A squall line is a non-frontal, narrow band of active thunderstorms. The line may be too long to easily detour and too wide and severe to penetrate. It often contains severe steady state thunderstorms and presents the single, most intense weather hazard to aircraft Reference: AC 00-6B"
+    },
+    {
+      "seq": 30,
+      "answer": "B",
+      "explanation": "Two conditions are necessary for structural icing in flight\n1. The aircraft must be flying through visible water such as rain or cloud droplets, and \n2. The temperature at the point where the moisture strikes the aircraft must be 0 degrees C (32 degrees F) or colder.\nReference: AC 00-6B"
+    },
+    {
+      "seq": 31,
+      "answer": "A",
+      "explanation": "If the temperature is above standard the density altitude will be higher than pressure altitude. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 32,
+      "answer": "C",
+      "explanation": "Unstable conditions are characterized by cumulus clouds, turbulence, showery precipitations and good visibility. Reference: AC 00-6B"
+    },
+    {
+      "seq": 33,
+      "answer": "A",
+      "explanation": "Dry areas get hotter than moist area. Dry fields or dry ground of any nature are better thermal sources than mist areas. This applies to woods or forests, which are poor sources of thermals because of the large amount of moisture given off by foliage. Reference: AC 00-6B"
+    },
+    {
+      "seq": 34,
+      "answer": "A",
+      "explanation": "Between 2000Z and 2200Z there is a 40% probability (PROB) that is the visibility will drop to 1 SM due to a thunderstorm (TS) and moderate rain (RA)? Reference: AC 00-6B"
+    },
+    {
+      "seq": 35,
+      "answer": "C",
+      "explanation": "Thermals are updrafts in convective currents dependent on solar heating. A temperature inversion would result in stable air with very little, if any, convective activity. Reference: AC 00-6B"
+    },
+    {
+      "seq": 36,
+      "answer": "B",
+      "explanation": "Characteristics of a stable air mass include stratiform clouds and fog, continuous precipitation, smooth air, and fair to poor visibility in haze and smoke. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 37,
+      "answer": "B",
+      "explanation": "Local condition, geological features, and other anomalies can change the wind direction and speed close to the Earth's surface, making it difficult to control and maneuver the a sUAS. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 38,
+      "answer": "A",
+      "explanation": "Advection fog forms when moist air moves over colder ground or water. It is most common along coastal areas. The fog frequently forms offshore as a result of cold water, then is carried inland by the wind. Reference: AC 00-6B"
+    },
+    {
+      "seq": 39,
+      "answer": "B",
+      "explanation": "Advection fog forms when moist air moves over colder ground or water. It is most common along coastal areas. The fog frequently forms offshore as a result of cold water, then is carried inland by the wind. Reference: AC 00-6B"
+    },
+    {
+      "seq": 40,
+      "answer": "A",
+      "explanation": "Wind shear is an invisible hazard associated with all thunderstorms. Shear turbulence has been encountered 20 miles laterally from a severe storm. Reference: AC 00-6B"
+    },
+    {
+      "seq": 41,
+      "answer": "C",
+      "explanation": "The key feature of the cumulus stage is an updraft. Precipitation beginning to fall from the cloud base is the signal that a downdraft has developed also and a cell has entered the mature stage. Reference: AC 00-6B"
+    },
+    {
+      "seq": 42,
+      "answer": "C",
+      "explanation": "Standard sea level pressure is 29.92 inches of mercury, standard sea level temperatures is 15 degree C. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 43,
+      "answer": "A",
+      "explanation": "The current conditions at KMDW are 1-1/2 SM visibility (1-1/2 SM) with rain (RA), ceiling overcast at 700 feet (OVC007) Reference: AC 00-6B"
+    },
+    {
+      "seq": 44,
+      "answer": "B",
+      "explanation": "You should request a standard briefing any time you are planning a flight and you have not received a previous briefing. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 45,
+      "answer": "A",
+      "explanation": "When air near the surface is warm and moist, suspect instability. Surface heating, cooling aloft, converging or upslope winds, or an invading mass of colder air may lead to instability and cumuliform clouds Reference: AC 00-6B"
+    },
+    {
+      "seq": 46,
+      "answer": "A",
+      "explanation": "Temperature is one of the most easily recognized discontinuities across a front Reference: AC 00-6B"
+    },
+    {
+      "seq": 47,
+      "answer": "B",
+      "explanation": "ASOS is designed to support aviation operations and weather forecast activities. The ASOS will provide continuous minute-by-minute observations and perform the basic observing functions necessary to generate an aviation routine weather report (METAR) and other aviation weather information. Reference: AIM 7-1-11"
+    },
+    {
+      "seq": 48,
+      "answer": "B",
+      "explanation": "A lightning strike can puncture the skin of an aircraft, damage communication and navigation equipment, or hit the remote pilot or crew on the ground. Reference: AC 00-6B"
+    },
+    {
+      "seq": 49,
+      "answer": "C",
+      "explanation": "A combination of high temperature, high humidity, and high altitude result in a density altitude higher than the pressure altitude which in turn, results in reduced aircraft performance. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 50,
+      "answer": "A",
+      "explanation": "Thunderstorms and heavy rain are common, although not always, associated with cold fronts. Reference: AC 00-6B"
+    },
+    {
+      "seq": 51,
+      "answer": "C",
+      "explanation": "Every physical process of weather is accompanied by, or is the result of, unequal heating of the Earth's surface Reference: AC 00-6B"
+    },
+    {
+      "seq": 52,
+      "answer": "A",
+      "explanation": "Thunderstorm hazards reach their greatest intensity during the mature stage, which is when precipitation begins. Reference: AC 00-6B"
+    },
+    {
+      "seq": 53,
+      "answer": "A",
+      "explanation": "Part 107 require the minimum distance of the sUAS from clouds must be no less than 500 feet below the cloud. The towers depicted 4 NM east of K36 are 292 feet AGL. 292 + 500 = 792 feet AGL. Reference: 14 CFR 107.51"
+    },
+    {
+      "seq": 54,
+      "answer": "B",
+      "explanation": "A squall line is a non-frontal, narrow band of active thunderstorms. The line may be too long to easily detour and too wide and severe to penetrate. It often contains severe steady-state thunderstorms and presents the single, most intense weather hazard to aircraft. Reference: AC 00-6B"
+    },
+    {
+      "seq": 55,
+      "answer": "C",
+      "explanation": "Regardless of the location, crew members must conduct a sUAS Part 107 operations with a minimum visibility, as observed from the location of the control station, no less than 3 statute miles. Reference: 14 CFR 107.51"
+    },
+    {
+      "seq": 56,
+      "answer": "C",
+      "explanation": "A continuous line of thunderstorms, or squall line, may form along or ahead of the front. Squall lines present a serious hazard to pilots as squall type thunderstorms are intense and move quickly. Squalls can occur at any altitude - they are not unique to high- or low-altitude operations. Reference: AC 00-6B"
+    },
+    {
+      "seq": 57,
+      "answer": "A",
+      "explanation": "Any convective SIGMET implies severe or greater turbulence, severe icing, and low-level wind shear. The forecast may be issued for any of the following; severe thunderstorms due to:\n1. Surface winds greater than or equal to 50 knots, or\n2. Hail at the surface greater than or equal to 3/4 inch in diameter, or\n3. Tornadoes, embedded thunderstorms, lines of thunderstorms.\nReference: AC 00-45"
+    },
+    {
+      "seq": 58,
+      "answer": "C",
+      "explanation": "An increase in air temperature or humidity, or a decrease in air pressure (which results in a higher density altitude) will significantly decrease both power output and propeller efficiency. If an air mass is humid, there is more water in it, therefore, less oxygen. Reference: AC 00-6B"
+    },
+    {
+      "seq": 59,
+      "answer": "A",
+      "explanation": "As water vapor condenses or sublimates on condensation nuclei, liquid or ice particles begin to grow. Some condensation nuclei have an affinity for water and can induce condensation or sublimation even when air is almost, but not completely, saturated. Answer (B) is incorrect because the presence of water vapor does not result in clouds, fog, or dew unless condensation occurs. Answer (C) is incorrect because it is possible to have 100% humidity without the occurrence of condensation, which is necessary for clouds, fog, or dew to form. Reference: AC 00-6B"
+    },
+    {
+      "seq": 60,
+      "answer": "B",
+      "explanation": "The combination of moisture and temperature determine the stability of the air and the resulting weather. Cool, dry air is very stable and resists vertical movement, which leads to good and generally clear weather. Reference: AC 00-6B"
+    },
+    {
+      "seq": 61,
+      "answer": "B",
+      "explanation": "Part 107 require the minimum distance of the sUAS from clouds must be no less than 500 feet below the cloud. The towers depicted 8 NM SW of CRP are 1,104 feet MSL. 1,104 + 500 = 1,604 feet MSL. Reference: 14 CFR 107.51"
+    },
+    {
+      "seq": 62,
+      "answer": "A",
+      "explanation": "When the temperature of the air rises with altitude, a temperature inversion exists. Inversion layers are commonly shallow layers of smooth, stable air close to the ground. The temperature of the air increases with altitude to a certain point, which is the top of the inversion. The air at the top of the layer acts as a lid, keeping weather and pollutants trapped below. If the relative humidity of the air is high, it can contribute to the formation of clouds, fog, haze, or smoke resulting in diminished visibility in the inversion layer. Reference: AC 00-6B"
+    },
+    {
+      "seq": 63,
+      "answer": "B",
+      "explanation": "The entry RAB35 means that rain began 35 minutes past the hour. Answer (A) is incorrect because mist is reported as BR. Answer (C) is incorrect because there is no format for reporting an altimeter change in a METAR. Reference: AC 00-45"
+    },
+    {
+      "seq": 64,
+      "answer": "A",
+      "explanation": "Wind shear is a sudden, drastic change in wind speed and/or direction over a very small area. Wind shear can subject an aircraft to violent updrafts and downdrafts, as well as abrupt changes to the horizontal movement of the aircraft. While wind shear can occur at any altitude, low-level wind shear is especially hazardous due to the proximity of an aircraft to the ground. Reference: AC 00-6B"
+    },
+    {
+      "seq": 65,
+      "answer": "B",
+      "explanation": "On cool, clear, calm nights, the temperature of the ground and objects on the surface can cause temperatures of the surrounding air to drop below the dew point. When this occurs, the moisture in the air condenses and deposits itself on the ground, buildings, and other objects like cars and aircraft. This moisture is known as dew and sometimes can be seen on grass and other objects in the morning. If the temperature is below freezing, the moisture is deposited in the form of frost. Reference: AC 00-6B"
+    },
+    {
+      "seq": 66,
+      "answer": "C",
+      "explanation": "Part 107 require the minimum distance of the sUAS from clouds must be no less than 500 feet below the cloud. 800 cloud - 500 = 300 feet AGL. Reference: 14 CFR 107.51"
+    },
+    {
+      "seq": 67,
+      "answer": "A",
+      "explanation": "The zone between two different air masses is a frontal zone or front. Across this zone, temperature, humidity and wind often change rapidly over short distances. Reference: AC 00-6B"
+    }
+  ]
+}

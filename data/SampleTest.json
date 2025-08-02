@@ -1,0 +1,304 @@
+{
+  "answers": [
+    {
+      "seq": 1,
+      "answer": "A",
+      "explanation": "Category: Regulations. You may operate a sUAS from a moving vehicle if you are in a sparsely populated area and the driver does not serve as the remote PIC, person manipulating the controls, or visual observer. Reference: 14 CFR 107.25"
+    },
+    {
+      "seq": 2,
+      "answer": "B",
+      "explanation": "Category: Regulations. This a sUAS operation is subject to 14 CFR Part 107 because the compensation (money or otherwise) makes the operation commercial in nature Reference: 14 CFR 107.3"
+    },
+    {
+      "seq": 3,
+      "answer": "B",
+      "explanation": "Category: Regulations. Each remote PIC who deviates from a rule in Part 107 must, upon request of the FAA administrator, send a written report of that deviation to the Administrator Reference: 14 CFR 107.21"
+    },
+    {
+      "seq": 4,
+      "answer": "A",
+      "explanation": "Category: Regulations. Refer to Appendix 1, Legend 1. The routes established between VORs are depicted by blue-tinted bands showing the airway number following the letter \"V\", and are called \"Victor airways\". Remote pilots should exercise vigilance in looking for other aircraft when operating near these high density areas. Reference: Sectional Chart Legend."
+    },
+    {
+      "seq": 5,
+      "answer": "B",
+      "explanation": "Category: Regulations. The remote pilot operating a sUAS must yield right-of-way to all other manned aircraft, including aircraft operating on the surface of the aircraft. Reference: 14 CFR 107.37"
+    },
+    {
+      "seq": 6,
+      "answer": "A",
+      "explanation": "Category: Regulations. No report is required because the damage can be repaired for less than $500. A report is required only when damage to any property, other than the small UA, is greater than $500 to repair or replace the property (whichever is lower). The cost of the sUAS is not considered when determining if an event is considered to be an accident or incident. Reference: 14 CFR 107.9, AC 107-2"
+    },
+    {
+      "seq": 7,
+      "answer": "B",
+      "explanation": "Category: Regulations. No person may act as a pilot-in0command (PIC), or in any other capacity as a required pilot flight crew member when operating a sUAS unless he or she has in possession or readily accessible a current-pilot certificate. Reference: 14 CFR 107.7"
+    },
+    {
+      "seq": 8,
+      "answer": "B",
+      "explanation": "Category: Regulations. The remote pilot application must be submitted to a Flight Standards District Office (FSDO), a designated pilot examiner (DPE), an airman certification representative for a pilot school, a certified flight instructor (CFI), or other person authorized by the Administrator to process the application. Reference: 14 CFR 107.63 and 61.56"
+    },
+    {
+      "seq": 9,
+      "answer": "A",
+      "explanation": "Category: Regulations. The remote PIC must report any a sUAS accident to the FAA, within 10 days of the operation, if a serious injury to any person or any loss of consciousness occurs. It would be considered a serious injury if a person requires hospitalization. Reference: 14 CFR 107.9, AC 107-2"
+    },
+    {
+      "seq": 10,
+      "answer": "C",
+      "explanation": "Category: Regulations. 14 CFR Part 107 does not apply to model aircraft that meet the criteria in 14 CFR 101.41, amateur rockets, moored balloons or unmanned free balloons, kites, operations conducted outside the United States, public aircraft operations, and air carrier operations."
+    },
+    {
+      "seq": 11,
+      "answer": "A",
+      "explanation": "Category: Regulations. No person may act, or attempt to act, as a crew member of a civil aircraft while having .04 percent or more, by weight alcohol in the blood. Reference: 14 CFR 107.27, 91.17"
+    },
+    {
+      "seq": 12,
+      "answer": "A",
+      "explanation": "Category: Regulations. Although not required by Part 107, the FAA encourages applicants to submit their application at least 90 days prior to the start of the proposed operation. The FAA will strive to complete review and adjudication of waiver within 90 days; however, the time required for the FAA to make a determination regarding waiver requests will vary based on the complexity of the request. Reference: AC 107-2"
+    },
+    {
+      "seq": 13,
+      "answer": "B",
+      "explanation": "Category: Regulations. Report any a sUAS accident to the FAA within 10 days if it results in serious injury, loss of consciousness, or repairs costing over $500. Reference: 14 CFR 107.9"
+    },
+    {
+      "seq": 14,
+      "answer": "A",
+      "explanation": "Category: Regulations. The sUAS cannot be flown higher than 400 feet AGL unless flown within a 400-foot radius of a structure and is not flown higher than 400 feet above the structure's immediate upper-most limit. Reference: 14 CFR 107.51"
+    },
+    {
+      "seq": 15,
+      "answer": "C",
+      "explanation": "Category: Regulations. No person may manipulate the flight controls of a small unmanned aircraft system or act as a remote pilot-in-command, visual observer, or direct participant in the operation of the small unmanned aircraft if he or she knows or has reason to know that he or she has a physical or mental condition that would interfere with the safe operation of the small unmanned aircraft system. Reference: 14 CFR 107.17"
+    },
+    {
+      "seq": 16,
+      "answer": "C",
+      "explanation": "Category: Regulations. Prior to flight, the remote PIC must ensure that all persons directly participating in the small unmanned aircraft operation are informed about the operating conditions, emergency procedures, contingency procedures, roles and responsibilities, and potential hazards. Reference: 14 CFR 107.49, AC 107-2"
+    },
+    {
+      "seq": 17,
+      "answer": "A",
+      "explanation": "Category: Regulations. This scenario is not compliant with Part 107. Visual aids such as binoculars may be used only momentarily to enhance situational awareness. They may not be used during the duration of the operation. Reference: 14 CFR 107.31"
+    },
+    {
+      "seq": 18,
+      "answer": "B",
+      "explanation": "Category: Regulations. The remote PIC is ultimately responsible for assessing the needs of the operation and preparing sufficient support crew members to ensure the safety of the operation. Reference: 14 CFR 107.12"
+    },
+    {
+      "seq": 19,
+      "answer": "A",
+      "explanation": "Category: National Airspace System. The chart supplement US includes airport details, including the airspace the airport lies in. Figure 31 shows Coeur D' Alene airport within Class E airspace. Reference: Chart Supplement"
+    },
+    {
+      "seq": 20,
+      "answer": "A",
+      "explanation": "Category: National Airspace System. Notice to Airmen (NOTAMs provide the most current information available) and can be found by visiting www.faa.org or obtained at a flight service station (FSS). A comprehensive weather briefing can be obtained as part of a standard preflight briefing. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 21,
+      "answer": "B",
+      "explanation": "Category: National Airspace System. The GXF airport is surrounded by a dashed blue line which indicates it is within Class D airspace. Reference: Sectional Chart"
+    },
+    {
+      "seq": 22,
+      "answer": "A",
+      "explanation": "Category: National Airspace System. Taxiway ending markers are used to indicate that the taxiway does not continue. Reference: AIM 2-3-4"
+    },
+    {
+      "seq": 23,
+      "answer": "C",
+      "explanation": "Category: National Airspace System. Entries into traffic patterns while descending create specific collision hazards and should be avoided. Reference: AIM 4-4-15"
+    },
+    {
+      "seq": 24,
+      "answer": "C",
+      "explanation": "Category: National Airspace System. TFRs are imposed in order to: \n1. Protect persons and property in the air or on the surface from an existing or imminent flight associated hazard\n2. Provide a safe environment for the operation of disaster relief aircraft\n3. Prevent an unsafe congestion of sightseeing aircraft above an incident\n4. Protect the President, Vice President, or other public figures, and,\n5. Provide a safe environment for space agency operations. Pilots are expected to check appropriate NOTAMs during flight planning when conducting flight in an area where a TFR is in effect. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 25,
+      "answer": "A",
+      "explanation": "Category: National Airspace System. The taxiway directional sign identifies the designation(s) of the intersecting taxiway(s) leading out of the intersection that a pilot would normally be expected to turn onto or hold short of. Reference: AIM 2-3-10"
+    },
+    {
+      "seq": 26,
+      "answer": "B",
+      "explanation": "Category: Regulations. This a sUAS operation is subject to 14 CFR part 107 because the aerial imagery is for the furtherance of a business, making it commercial in nature. Reference: 14 CFR 107.3"
+    },
+    {
+      "seq": 27,
+      "answer": "A",
+      "explanation": "Category: Regulations. Each remote PIC who deviates from a rule in Part 107 must, upon request of the FAA administrator, send a written report of that deviation to the Administrator. Reference: 14 CFR 107.21"
+    },
+    {
+      "seq": 28,
+      "answer": "B",
+      "explanation": "Category: Regulations. This a sUAS operation is not subject to FAA sUAS regulations because the sUAS operation is recreational in nature. Part 101 details the regulations pertinent to model aircraft and hobby operations. Reference: 14 CFR Part 107.3"
+    },
+    {
+      "seq": 29,
+      "answer": "B",
+      "explanation": "Category: Regulations. When a sUAS operations are conducted during civil twilight, the sUAS must be equipped with anti-collision lights that are capable of being visible for at least 3 statute miles. Reference: 14 CFR 107.29"
+    },
+    {
+      "seq": 30,
+      "answer": "A",
+      "explanation": "Category: Regulations. Each remote pilot shall, before each flight, assess the operating environment including local weather condition, local airspace and any flight restrictions, the location of persons and property on the surface, and other ground hazards. Reference: 14 CFR 107.49"
+    },
+    {
+      "seq": 31,
+      "answer": "B",
+      "explanation": "Category: Regulations. You may not operate a small unmanned aircraft directly over another person unless that person is directly involved in the operation (such as a visual observer or other crew member) or within a safe cover, such as inside a stationary vehicle or a protective structure that would protect a person from harm if the small unmanned aircraft were to crash into that structure. Reference: 14 CFR 107.39"
+    },
+    {
+      "seq": 32,
+      "answer": "A",
+      "explanation": "Category: Regulations. In case of an in-flight emergency, the remote PIC is permitted to deviate from any rule of Part 107 to the extent necessary to respond to that emergency. Reference: 14 CFR 107.21"
+    },
+    {
+      "seq": 33,
+      "answer": "B",
+      "explanation": "Category: Regulations. The visual observer (when asked by the remote PIC) maintains visual line of sight with a sUAS and reports any potential hazards to the remote PIC and person manipulating the controls. Reference: 14 CFR 107.33"
+    },
+    {
+      "seq": 34,
+      "answer": "A",
+      "explanation": "Category: Regulations. No person may act as a pilot-in0command (PIC), or in any other capacity as a required pilot flight crew member when operating a sUAS unless he or she has in possession or readily accessible a current-pilot certificate. Reference: 14 CFR 107.7"
+    },
+    {
+      "seq": 35,
+      "answer": "C",
+      "explanation": "Category: Regulations. A remote pilot-in-command, owner, or person manipulating the flight controls of a small unmanned aircraft must, upon request, make available to the administrator: (1) the remote pilot certificate with a small UAS rating; and (2) any other document, record, or report required. Reference: 14 CFR 107.7"
+    },
+    {
+      "seq": 36,
+      "answer": "A",
+      "explanation": "Category: Regulations. The sUAS cannot be flown faster than a ground speed of 87 knots (100mph) and must be operated below 400 feet. Reference: 14 CFR 107.51"
+    },
+    {
+      "seq": 37,
+      "answer": "B",
+      "explanation": "Category: Regulations. Operation of a sUAS is permitted from a moving land or waterborne vehicle over a sparsely populated (or unpopulated) area. Reference: 14 CFR 107.25"
+    },
+    {
+      "seq": 38,
+      "answer": "B",
+      "explanation": "Category: National Airspace System. Cooperstown Airport depicts one runway; RWY 13 means the aircraft will be headed 130 degrees upon landing. “Left downwind\" means the aircraft is currently to the left side, heading opposite and midway of the landing runway. This would place the aircraft east of the landing runway. Reference: AIM 4-1-5"
+    },
+    {
+      "seq": 39,
+      "answer": "A",
+      "explanation": "Category: National Airspace System. The \"47\" at area 7 is the line of longitude (also referred to as meridian) east and west of the prime meridian which passes through Greenwich, England. Reference: FAA-H-8083-35"
+    },
+    {
+      "seq": 40,
+      "answer": "C",
+      "explanation": "Category: National Airspace System. TFRs are imposed in order to: \n1. Protect persons and property in the air or on the surface from an existing or imminent flight associated hazard\n2. Provide a safe environment for the operation of disaster relief aircraft\n3. Prevent an unsafe congestion of sightseeing aircraft above an incident\n4. Protect the President, Vice President, or other public figures, and,\n5. Provide a safe environment for space agency operations. Pilots are expected to check appropriate NOTAMs during flight planning when conducting flight in an area where a TFR is in effect. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 41,
+      "answer": "A",
+      "explanation": "Category: National Airspace System. The thick blue lines on the sectional chart indicate the boundaries of the overlying Class B airspace. Within each segment, the floor and ceiling are denoted by one number over a second number or the letters SFC. The floor of the class B airspace is 4,000 feet MSL. Reference: AIM 13-2-3"
+    },
+    {
+      "seq": 42,
+      "answer": "B",
+      "explanation": "Category: National Airspace System. The recommended entry position for an airport traffic pattern is 45 degrees to the midpoint of the downwind left at traffic pattern altitude. Reference: AIM 4-3-3"
+    },
+    {
+      "seq": 43,
+      "answer": "C",
+      "explanation": "Category: National Airspace System. Runway hold markings are indicated by two double dashed and two solid yellow lines. You are considered to be on the taxiway on the double solid yellow line side while you are considered to be on the runway if on the double dashed yellow line side. Reference: AIM 2-3-4"
+    },
+    {
+      "seq": 44,
+      "answer": "C",
+      "explanation": "Category: Weather. Part 107 a sUAS operations require the minimum distance of the small unmanned aircraft from clouds must be no less than 500 feet below the cloud and 2,000 feet horizontally from the cloud. Reference: 14 CFR 107.51"
+    },
+    {
+      "seq": 45,
+      "answer": "B",
+      "explanation": "Category: Weather. Thermals are updrafts in convective currents dependent on solar heating. A temperature inversion would result in stable air with very little, if any, convective activity. Reference: AC 00-6B"
+    },
+    {
+      "seq": 46,
+      "answer": "A",
+      "explanation": "Category: Weather. A squall line is a non-frontal, narrow band of active thunderstorms. The line may be too long to easily detour and too wide and severe to penetrate. It often contains severe steady state thunderstorms and presents the single, most intense weather hazard to aircraft. Reference: AC 00-6B"
+    },
+    {
+      "seq": 47,
+      "answer": "A",
+      "explanation": "Category: Weather. Advection fog forms when moist air moves over colder ground or water. It is most common along coastal areas. The fog frequently forms offshore as a result of cold water, then is carried inland by the wind. Reference: AC 00-6B"
+    },
+    {
+      "seq": 48,
+      "answer": "C",
+      "explanation": "Category: Weather. On a hot day, the air becomes \"thinner\" or lighter, and its density is equivalent to a higher altitude in the standard atmosphere, thus the term \"high density altitude\". Reference: AC 00-6B"
+    },
+    {
+      "seq": 49,
+      "answer": "C",
+      "explanation": "Category: Weather. Conditions favorable for radiation fog are clear sky, little or no wind, and small temperature/ dew point spread (high relative humidity). Radiation fog is restricted to land because water surfaces cool little from nighttime radiation. Reference: AC 00-6B"
+    },
+    {
+      "seq": 50,
+      "answer": "C",
+      "explanation": "Category: Weather. A thunderstorm is, in general, a local storm invariably produced by a cumulonimbus cloud, and is always accompanied by lightning and thunder. Reference: AC 00-6B"
+    },
+    {
+      "seq": 51,
+      "answer": "B",
+      "explanation": "Category: Weather. Unstable conditions are characterized by cumulus clouds, turbulence, showery precipitations and good visibility. Reference: AC 00-6B"
+    },
+    {
+      "seq": 52,
+      "answer": "A",
+      "explanation": "Category: Loading and Performance. Stall speed increases in proportion to the square root of the load factor. Thus, with a load factor of 4, an aircraft will stall, at a speed which is double the normal stall speed. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 53,
+      "answer": "B",
+      "explanation": "Category: Loading and Performance. Total range is dependent on both fuel available and specific range. When range and economy of operation are the principal goals, the remote pilot must ensure that the sUAS is operated at the recommended long range cruise condition. By this procedure, the sUAS will be capable of its maximum design-operating radius, or can achieve lesser flight distances with a maximum of fuel reserve at the destination. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 54,
+      "answer": "A",
+      "explanation": "Category: Loading and Performance. The maximum endurance condition is obtained at the point of minimum power required since this would require the lowest fuel flow or battery to keep the sUAS in steady, level flight. Maximum range condition occurs where the proportion between speed and power required is greatest. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 55,
+      "answer": "C",
+      "explanation": "Category: Loading and Performance. When the angle of attack is increased to between 18 and 20 degrees (critical angle of attack) on most airfoils the airstream can no longer follow the upper curvature of the wing because of the excessive change in direction. The airfoil will stall if the critical angle of attack is exceeded. The airspeed at which stall occurs will be determined by weight and load factor, but the stall angle of attack is the same. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 56,
+      "answer": "B",
+      "explanation": "Category: Loading and Performance. To determine altitude, with the sUAS on the ground, the remote pilot and VO should pace off 400 feet from the sUAS to get a visual perspective of the sUAS at that distance, wherein the remote pilot and VO maintain that visual perspective or closer while the sUAS is in flight. Reference: AC 107-2"
+    },
+    {
+      "seq": 57,
+      "answer": "B",
+      "explanation": "Category: Loading and Performance. At slow speeds, the maximum available lifting force of the wing is only slightly greater than the amount necessary to support the weight of the sUAS. However, at high speeds, the capacity of the flight controls or a strong gust, may increase the load factor beyond safe limits. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 58,
+      "answer": "A",
+      "explanation": "Category: Loading and Performance. Excessive weight reduces the flight performance in almost every respect, including a shorter endurance. In addition, operating above the maximum weight limitation can compromise the structural integrity of an unmanned aircraft. Reference: AC 107-2"
+    },
+    {
+      "seq": 59,
+      "answer": "A",
+      "explanation": "Category: Loading and Performance. The remote PIC is responsible for ensuring that every flight can be accomplished safely, does not pose an undue hazard, and does not increase the likelihood of a loss of positive control. Reference: 14 CFR 107.12"
+    },
+    {
+      "seq": 60,
+      "answer": "A",
+      "explanation": "Category: Loading and Performance. Prior to each flight, the remote PIC must ensure that any object attached to or carried by the small unmanned aircraft is secure and does not adversely affect the flight characteristics or controllability of the aircraft. Reference: AC 107-2"
+    }
+  ]
+}

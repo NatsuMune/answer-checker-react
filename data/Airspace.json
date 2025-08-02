@@ -1,0 +1,454 @@
+{
+  "answers": [
+    {
+      "seq": 1,
+      "answer": "B",
+      "explanation": "No person may operate a small unmanned aircraft in prohibited or restricted areas unless that person has permission from the using or controlling agency, as appropriate. Reference: Sectional Chart Legend, 14 CFR 107.45"
+    },
+    {
+      "seq": 2,
+      "answer": "A",
+      "explanation": "Both the Aeronautical Information Manual (AIM) and the Pilot's Handbook of Aeronautical Knowledge (FAA-H-8083-25) contain explanations of airport signs and markings Reference: AIM Chapter 2, Section 3"
+    },
+    {
+      "seq": 3,
+      "answer": "A",
+      "explanation": "Onawa, IA (K36) is in the bottom right quadrant of the sectional excerpt. It is outside any shading or lines, which indicates the airport is in Class G airspace up to 1200 feet AGL Reference: Sectional Chart Legend"
+    },
+    {
+      "seq": 4,
+      "answer": "B",
+      "explanation": "All activity within an Alert Area shall be conducted in accordance with FAA regulations, without waiver, and pilots of participating aircraft, as well as pilots transiting the area, shall be equally responsible for collision avoidance Reference: AIM 3-4-6"
+    },
+    {
+      "seq": 5,
+      "answer": "C",
+      "explanation": "No person may operate a small unmanned aircraft in class B, Class C, or class D airspace or within the lateral boundaries of the surface area of Class E airspace designated for an airport unless that person has prior authorization from ATC Reference: 14 CFR 107.41"
+    },
+    {
+      "seq": 6,
+      "answer": "C",
+      "explanation": "VFR Military training routes at and below 1500 feet AGL (will no segment above 1500) will be identified by four digit numbers, eg VR1351. VR above and below 1500 feet AGL (segments of these routes may be below 1500) will be identified by three digit numbers, eg VR 426. Small UAS must operate below 400 feet. This 4 digit Military Training Route indicates operations below 1500 feet AGL, which could present a hazard to the sUAS operations. Reference: AIM 3-5-2"
+    },
+    {
+      "seq": 7,
+      "answer": "B",
+      "explanation": "The chart supplement US includes airport details, including remarks unique to that airport. Figure 52 shown an abbreviated remark for Lincoln Airport \"Birds invof aipt\" Reference: Chart Supplement"
+    },
+    {
+      "seq": 8,
+      "answer": "A",
+      "explanation": "When approaching the holding line from the side with the continuous lines, a pilot should not cross the holding line without ATC clearance at a controlled airport, or without making sure of adequate separation from other aircraft at uncontrolled airports. Reference: AIM 2-3-5"
+    },
+    {
+      "seq": 9,
+      "answer": "A",
+      "explanation": "The dimensions of Class D airspace are as needed for each individual circumstance. The airspace may include extensions necessary for IFR arrival and departure paths. Reference: AIM 3-2-5"
+    },
+    {
+      "seq": 10,
+      "answer": "C",
+      "explanation": "The chart supplements US includes airport details, including the airspace the airport lies in. Figure 31 shows Coeur D' Alene airport within Class E airspace. Reference: Chart Supplement"
+    },
+    {
+      "seq": 11,
+      "answer": "A",
+      "explanation": "Runway hold markings are indicated by two double dashed and two solid yellow lines. You are considered to be on the taxiway on the double solid yellow line side while you are considered to be on the runway if on the double dashed yellow line side. Reference: AIM 2-3-4"
+    },
+    {
+      "seq": 12,
+      "answer": "B",
+      "explanation": "When a manned aircraft is approaching to land at an airport in Class G airspace without an operating control tower, each pilot of an airplane will make all turns to the left unless the airport displays approved light signals of visual markings indicating that turns should be made to the right (which will be detailed in the Chart Supplements US) Reference: 14 CFR 91.126"
+    },
+    {
+      "seq": 13,
+      "answer": "B",
+      "explanation": "The \"98\" north of area 7 is the line of longitude east and west of the line that passes through Prime Meridian (or the longitude that passes Greenwich, England). Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 14,
+      "answer": "A",
+      "explanation": "Refer to Appendix 1, Legend 1. Airports having control towers are shown in blue, all others in magenta. Reference: Sectional Chart Legend."
+    },
+    {
+      "seq": 15,
+      "answer": "C",
+      "explanation": "The GXF airport is surrounded by a dashed blue line which indicates it is within Class D airspace. Reference: Sectional Chart"
+    },
+    {
+      "seq": 16,
+      "answer": "A",
+      "explanation": "Restricted areas can be penetrated but only with the permission of the controlling agency. No person may operate an aircraft within a restricted area contrary to the restrictions imposed unless he/she has the permission of the using or controlling agency. Penetration of restricted areas without authorization from the using or controlling agency may be fatal to the aircraft and its occupants. Reference: 14 CFR 107.45, AIM 3-4-3"
+    },
+    {
+      "seq": 17,
+      "answer": "B",
+      "explanation": "Effective scanning is accomplished with a series of short, regularly spaced eye movements that bring successive areas of the sky into the central visual field. Each movement that brings successive areas of the sky into the central visual field. Each movement should not exceed 10 degrees and each area should be observed at least one second to enable detection. Reference: AIM 8-1-6"
+    },
+    {
+      "seq": 18,
+      "answer": "A",
+      "explanation": "FDC NOTAMs are issued by the National Flight Data Center and contain regulatory information such as Temporary Flight Restrictions. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 19,
+      "answer": "C",
+      "explanation": "On final approach to runway 9, the aircraft will be heading from east to west on a 090 heading. Thus aircraft of the airport. Reference: AIM 4-1-5"
+    },
+    {
+      "seq": 20,
+      "answer": "B",
+      "explanation": "According to the Chart, the ATC control tower frequency is 120.50 Reference: Sectional Chart Legend."
+    },
+    {
+      "seq": 21,
+      "answer": "A",
+      "explanation": "Hayward executive is located in Class D airspace up to but not including 1500 feet MSL as depicted by the blue segmented line surrounding it. Note that Class C begins at 1500 feet MSL in that sector and goes up to the bottom of the overlying Class B (noted by the \"T\" in the altitude description\" Reference: AIM 3-2-5"
+    },
+    {
+      "seq": 22,
+      "answer": "B",
+      "explanation": "TFRs are imposed in order to: \n1. Protect persons and property in the air or on the surface from an existing or imminent flight associated hazard\n2. Provide a safe environment for the operation of disaster relief aircraft\n3. Prevent an unsafe congestion of sightseeing aircraft above an incident\n4. Protect the President, Vice President, or other public figures, and,\n5. Provide a safe environment for space agency operations.\nPilots are expected to check appropriate NOTAMs during flight planning when conducting flight in an area where a TFR is in effect Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 23,
+      "answer": "A",
+      "explanation": "Refer to Appendix 1, Legend 1. The top number, printed in bold, is the height of the obstruction above mean sea level. The second number, printed in parentheses, is the height of the obstruction above ground level. The obstruction is shown as 1548 feel MSL and 1534 feet AGL. Reference: Sectional Chart Legend"
+    },
+    {
+      "seq": 24,
+      "answer": "A",
+      "explanation": "Refer to Appendix 1, Legend 1. On figure 24, area 3, the group obstruction near the 009 degree radial has the word \"stacks\" below 454. The bold number (454) indicates the height of the obstruction above mean sea level. Reference: Sectional Chart Legend."
+    },
+    {
+      "seq": 25,
+      "answer": "B",
+      "explanation": "On-airport areas that are used for certain cargo functions, including screening, must be a security identification display area (SIDA). A SIDA is that portion of an airport within the US, specified in the security program, in which individuals must display an airport-issued or approved ID and carry out other security measures. Reference: 49 CFR 1544"
+    },
+    {
+      "seq": 26,
+      "answer": "A",
+      "explanation": "Graticules on sectional charts are the lines dividing every 30 minutes of latitude and every 30 minutes of longitude. Each tick mark represents one minute of latitude or longitude. Latitude increases northward, west longitude increases going westward. The Garrison (Pvt) airport is located approximately 47 degrees 40\"N latitude and 101 degrees 26'00\"W longitude. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 27,
+      "answer": "C",
+      "explanation": "Notice to Airmen (NOTAMs provide the most current information available) They provide time-critical information on airports and changes that affect the NAS. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 28,
+      "answer": "C",
+      "explanation": "The hill has a height of 4,960 MSL. Therefore, a sUAS may be flown up to 400 feet AGL which is 5,360 feet. The floor of airspace such as Class E in AGL not MSL. Reference: Sectional Chart Legend, 14 CFR 107.51"
+    },
+    {
+      "seq": 29,
+      "answer": "A",
+      "explanation": "Refer to Appendix 1, Legend 1. Anderson airport is in the bottom right quadrant of the sectional. The lack of shading around the airport indicates it is in Class G airspace. Small UAS operates in Class G airspace may be conducted without ATC permissions. However, remote pilots should exercise vigilance to ensure they cause no interruption to aircraft traffic. Reference: Sectional Chart Legend"
+    },
+    {
+      "seq": 30,
+      "answer": "B",
+      "explanation": "The Chart Supplements US is a publication for pilots containing information about airports, seaplane bases, and heliports open to the public including communications data, navigational facilities and certain special notices and procedures. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 31,
+      "answer": "B",
+      "explanation": "Remote Pilots should report collisions between aircraft and wildlife so the authorities can take measures to mitigate future incidents. Reference: AIM 7-4-5"
+    },
+    {
+      "seq": 32,
+      "answer": "A",
+      "explanation": "The runway number is the whole number nearest one-tenth the magnetic azimuth of the centerline of the runway, measured clockwise from magnetic north. For example: 272 degrees = RWY 27; 087 degrees = RWY 9 Reference: AIM 2-3-3"
+    },
+    {
+      "seq": 33,
+      "answer": "A",
+      "explanation": "The ‘Pvt’ after the airport names indicates Sky Way Airport is a restricted or non-public use airport. Reference: Sectional Chart"
+    },
+    {
+      "seq": 34,
+      "answer": "B",
+      "explanation": "Notice to Airmen (NOTAMs provide the most current information available) and can be found by visiting www.faa.org or obtained at a flight service station (FSS). A comprehensive weather briefing can be obtained as part of a standard preflight briefing. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 35,
+      "answer": "A",
+      "explanation": "Mandatory instructions signs are used to denote an entrance to a runway or critical area and areas where an aircraft is prohibited from entering. The runway holding position sing is located at the holding position on taxiways that intersect a runway or on runways that intersect other runways. Reference: AIM 2-3-8"
+    },
+    {
+      "seq": 36,
+      "answer": "C",
+      "explanation": "Entries into traffic patterns while descending create specific collision hazards and should be avoided. Reference: AIM 4-4-15"
+    },
+    {
+      "seq": 37,
+      "answer": "A",
+      "explanation": "The Barnes County Airport is depicted inside the magenta shading, which is controlled airspace from 700 feet AGL up to but not including 18,000 feet. Therefore, the airspace below 700 feet AGL is class G. Reference: AIM 3-2-1"
+    },
+    {
+      "seq": 38,
+      "answer": "B",
+      "explanation": "The notices to Airmen Publication (NTAP) is published by Air Traffic Publications every 28 days and contains all current NOTAM (D)s and FDC NOTAMs (except FDC NOTAMs for TFRs) available for publication. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 39,
+      "answer": "A",
+      "explanation": "Most skeletal structures are supported by guy wires which are very difficult to see in good weather and can be invisible at dusk or during periods of reduced visibility. These wires can extend about 1,500 feet horizontally from a structure; therefore, all skeletal structures should be avoided horizontally by at least 2,000 feet. Reference: AIM 7-5-3"
+    },
+    {
+      "seq": 40,
+      "answer": "C",
+      "explanation": "The \"47\" at area 4 is the line of latitude north and south from the equator. Reference: FAA-H-8083-35"
+    },
+    {
+      "seq": 41,
+      "answer": "A",
+      "explanation": "Meridians of longitude encircle the earth from pole to pole, and all meridians cross the equator at right angles Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 42,
+      "answer": "A",
+      "explanation": "The taxiway directional sign identifies the designation(s) of the intersecting taxiway(s) leading out of the intersection that a pilot would normally be expected to turn onto or hold short of. Reference: AIM 2-3-10"
+    },
+    {
+      "seq": 43,
+      "answer": "C",
+      "explanation": "Contact with ATC must be made when operating within Class D airport, which is indicated by the blue airport and the blue dashed line surrounding it. The radius of Class D in the case is 4 NM, which is the command standard radius, although configuration of Class D is individually tailored for some airports. Reference: Sectional Chart Legend, 14 CFR 107.41, AIM 3-2-5"
+    },
+    {
+      "seq": 44,
+      "answer": "B",
+      "explanation": "No person may operate a small unmanned aircraft in Class B, Class C or Class D airspace or within, the lateral boundaries of the surface area of Class E airspace designated for an airport unless that person has prior authorization from Air Traffic Control (ATC) Reference: 14 CFR 107.41"
+    },
+    {
+      "seq": 45,
+      "answer": "A",
+      "explanation": "To measure the latitude and longitude, begin with looking for the hatched black lines with degree numbers on them. Just southeast of ECG there is the 36 degrees latitude line (running east/ west) and the 76 degrees longitude line (running north/ south). Count the ticks on the latitude line which is approximately 16 - these are the number of minutes yielding N 36 degrees 16' (north because the airport is north of the equator). Next, count the ticks west of the longitude line. There are approximately 10, therefore this is W76 degrees 10' (west because the airport is west of the prime meridian). Reference: Sectional Chart Legend."
+    },
+    {
+      "seq": 46,
+      "answer": "C",
+      "explanation": "The sectional chart excerpt includes a blue box note 4 SM southeast of the ECG airport that says \" Caution: Unmarked balloon on cable to 3008' MSL. Check NOTAMs. Reference: Sectional Chart Legend"
+    },
+    {
+      "seq": 47,
+      "answer": "B",
+      "explanation": "The common traffic advisory frequency (CTAF) is used for carrying out airport advisory practices and/or position reporting at an uncontrolled airport (which may also occur during hours when a tower is closed). The CTAF may be a UNICOM, MULTICOM, FSS or tower frequency and is identified in the appropriate aeronautical publications. On charts, CTAF is indicated by a solid dot with the letter \"C\" inside. When the control tower operates part time and a UNICOM frequency is provided, use the UNICOM frequency."
+    },
+    {
+      "seq": 48,
+      "answer": "B",
+      "explanation": "Runway 6 faces northeast on a 060 heading thus arriving aircraft will be on final approach southwest of the airport. Since you are operating south of the airport, you would want to avoid areas west (which would be closer to the final approach course) and north (closer to the airport and possibly the final approach course for runway 6) Reference: AIM 4-1-5"
+    },
+    {
+      "seq": 49,
+      "answer": "A",
+      "explanation": "Runway holding position markings on taxiways identify the locations on a taxiway where an aircraft is supposed to stop when it does not have clearance to proceed onto the runway. Reference: AIM 2-3-5"
+    },
+    {
+      "seq": 50,
+      "answer": "A",
+      "explanation": "The wire rich environment is typically below 1000 feet. Not all wires are marked and they can be nearly invisible when viewed from different angles. Remote pilots must exercise vigilance when operating near helicopters, moored balloons and others places where wires are frequently present. Reference: SAFO 10015"
+    },
+    {
+      "seq": 51,
+      "answer": "C",
+      "explanation": "TFRs are imposed in order to: \n1. Protect persons and property in the air or on the surface from an existing or imminent flight associated hazard\n2. Provide a safe environment for the operation of disaster relief aircraft\n3. Prevent an unsafe congestion of sightseeing aircraft above an incident\n4. Protect the President, Vice President, or other public figures, and,\n5. Provide a safe environment for space agency operations.\nPilots are expected to check appropriate NOTAMs during flight planning when conducting flight in an area where a TFR is in effect Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 52,
+      "answer": "A",
+      "explanation": "The magenta shading around Jamestown airport indicates the floor of the class E airspace starts 700 feet above the surface. No person may operate a small unmanned aircraft in class B, Class C or Class D airspace or within the lateral boundaries of the surface area of class E airspace designated for an airport unless that person has prior authorization from ATC. Reference: 14 CFR 107.41, FAA-H-8083-25"
+    },
+    {
+      "seq": 53,
+      "answer": "B",
+      "explanation": "Taxiway ending markers are used to indicate that the taxiway does not continue. Reference: AIM 2-3-4"
+    },
+    {
+      "seq": 54,
+      "answer": "B",
+      "explanation": "No person may operate a small unmanned aircraft that interferes with operations and traffic patterns at any airport, heliport or seaplane base. Reference: 14 CFR 107.43"
+    },
+    {
+      "seq": 55,
+      "answer": "A",
+      "explanation": "If taking off of runway 35, the aircraft will be departing to the north on a 360 degree heading. With right traffic, it will turn right towards the northeast on the crosswind leg. Reference: AIM 4-1-5"
+    },
+    {
+      "seq": 56,
+      "answer": "A",
+      "explanation": "The Aeronautical Information Manual (AIM) is the official guide to basic flight information and ATC procedures Reference: AIM"
+    },
+    {
+      "seq": 57,
+      "answer": "C",
+      "explanation": "The thick blue lines on the sectional chart indicate the boundaries of the overlying Class B airspace. Within each segment, the floor and ceiling are denoted by one number over a second number or the letters SFC. The floor of the class B airspace is 4,000 feet MSL. Reference: AIM 13-2-3"
+    },
+    {
+      "seq": 58,
+      "answer": "A",
+      "explanation": "Within the outer magenta circle of Savannah Class C airspace, there is a number 41 directly above the number 13. These numbers depict the floor and ceiling of the Class C airspace, the floor being 1,300 feet MSL and the ceiling being 4,100 feet MSL. Reference: AIM 3-2-4"
+    },
+    {
+      "seq": 59,
+      "answer": "C",
+      "explanation": "The recommended entry position for an airport traffic pattern is 45 degrees to the midpoint of the downwind left at traffic pattern altitude Reference: AIM 4-3-3"
+    },
+    {
+      "seq": 60,
+      "answer": "A",
+      "explanation": "A military operations area (MOA) contains military training activities such as acrobatics and calls for extreme caution. Any flight service station (FSS) within 100 miles of the area will provide, information concerning MOA hours of operation. Prior to entering an active MOA, pilots should contact the controlling agency for traffic advisories, noted in the legend for special use airspace. Reference: AIM 3-4-5"
+    },
+    {
+      "seq": 61,
+      "answer": "B",
+      "explanation": "Cooperstown Airport depicts one runway; RWY 13 means the aircraft will be headed 130 degrees upon landing. \"Left downwind\" means the aircraft is currently to the left side, heading opposite and midway of the landing runway. This would place the aircraft east of the landing runway Reference: AIM 4-1-5"
+    },
+    {
+      "seq": 62,
+      "answer": "A",
+      "explanation": "Hold Position signs have white inscription on red background Reference: AIM 2-3-5"
+    },
+    {
+      "seq": 63,
+      "answer": "C",
+      "explanation": "The no entry sign prohibits an aircraft from entering an area. Typically, this sing would be located on a taxiway intended to be used in only one direction or at the intersection of vehicle roadways with runways, taxiways or aprons where the roadway may be mistaken as a taxiway or other aircraft movement surface. Reference: AIM 2-3-8"
+    },
+    {
+      "seq": 64,
+      "answer": "C",
+      "explanation": "The elevation of the top of the obstacle is shown as 903 feet above mean sea level (MSL). Small UAS operations may not exceed 400 AGL. Moreover, the sUAS may be operated higher than 400 feet AGL if the sUAS is flown within a 400-foot radius of the structure and doesn’t not fly higher than 400 feet above the structure's immediate uppermost limit. Reference: Sectional Chart Legend, 14 CFR 107.51"
+    },
+    {
+      "seq": 65,
+      "answer": "A",
+      "explanation": "Georgetown Airport is outside the magenta shaded area, which indicates the floor of Class E airspace is at 1,200 feet AGL. The airport elevation is given in the airport data as 2, 623 feet MSL. Therefore, the class E airspace above Georgetown Airport is 3,823 feet MSL (2,623 +1,200) Reference: Sectional Chart"
+    },
+    {
+      "seq": 66,
+      "answer": "B",
+      "explanation": "The FAA near mid-air collision report indicates that 81% of the incidents occurred in clear skies and unrestricted visibility conditions. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 67,
+      "answer": "B",
+      "explanation": "The flag symbol represents a visual checkpoint used by manned aircraft to identify the position to initiate their contact with Norfolk approach control. As a defined checkpoint, a higher volume of air traffic should be expected there Reference: Sectional Chart Legend, FAA-H-8083-25"
+    },
+    {
+      "seq": 68,
+      "answer": "C",
+      "explanation": "The routes established between VORs are depicted by blue-tinted bands showing the airway number following the letter \"V\", and are called \"Victor airways\". Remote pilots should exercise vigilance in looking for other aircraft when operating near these high-density areas. Reference: Sectional Chart Legend."
+    },
+    {
+      "seq": 69,
+      "answer": "A",
+      "explanation": "Operations within Class C airspace requires two-way radio communications, a transponder, and an encoding altimeter. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 70,
+      "answer": "A",
+      "explanation": "Notices to Airmen (NOTAMs) provide time-critical aeronautical information either temporary in nature or not sufficiently known in advance to permit publication on aeronautical charts or in other operational publications. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 71,
+      "answer": "C",
+      "explanation": "The town of Hinton is north of Sioux City airport. Winnebago is south of Sioux City airport. This route is through the Class D airspace, depicted with the dashed blue line. You will need to contact ATC before conducting this flight. Reference: Sectional Chart Legend"
+    },
+    {
+      "seq": 72,
+      "answer": "A",
+      "explanation": "A NOTAM may be issued for reasons including hazards, such as air shows. The NOTAM will include the location and time for the affected region. UAS operations should stay away from these locations during the timeframe defined by the NOTAM. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 73,
+      "answer": "A",
+      "explanation": "Restricted areas are identified on sectional charts with an ‘R’ followed by a number. You can find information about restricted areas on the back of the sectional chart. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 74,
+      "answer": "C",
+      "explanation": "When aircraft are approaching each other head-on, or nearly so, each pilot of each aircraft (regardless of category or size) shall alter course to the right. Reference: AC 107-2"
+    },
+    {
+      "seq": 75,
+      "answer": "A",
+      "explanation": "Military Operations Areas (MOA) are depicted on sectional charts with a shaded, hashed magenta line. You can find information about the MOA on the back of the sectional, including times of operation, altitudes affected, and the controlling agency. Reference: AIM 3-4-5"
+    },
+    {
+      "seq": 76,
+      "answer": "B",
+      "explanation": "Tomlinson Airport is in the top left corner of Figure 26, and lies outside any colored circles. This indicates the airport is within Class E airspace from 1,200 feet AGL up to but not including 18,000 feet MSL. Reference: AIM 3-2-5"
+    },
+    {
+      "seq": 77,
+      "answer": "A",
+      "explanation": "The normal radius of the Class C outer area will be 10 NM. This is the area where separation is provided after two-way communication is established. It is only a requirement to contact ATC before entering the 10 NM Class C airspace depicted on the sectional chart. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 78,
+      "answer": "B",
+      "explanation": "Class D airspace is depicted with the dashed blue circle, the ceiling defined by the number in brackets. Reference: AIM 3-2-5"
+    },
+    {
+      "seq": 79,
+      "answer": "A",
+      "explanation": "Notices to Airmen (NOTAMs) provide the most current information available. They provide time-critical information on airports and changes that affect the NAS. Answer (B) is incorrect because the Chart Supplements U.S. is only revised every 8 weeks. Answer (C) is incorrect because the FAA systematically issues ACs to inform the aviation public of non-regulatory material. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 80,
+      "answer": "C",
+      "explanation": "Class C requires two-way radio communications equipment, a transponder, and an encoding altimeter. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 81,
+      "answer": "B",
+      "explanation": "Effective scanning is accomplished with a series of short, regularly spaced eye movements that bring successive areas of the sky into the central visual field. Each movement should not exceed 10 degrees, and each area should be observed for at least one second to enable detection. Reference: AIM 8-1-6"
+    },
+    {
+      "seq": 82,
+      "answer": "B",
+      "explanation": "The thick blue lines on the sectional chart indicate the boundaries of the overlying Class B airspace. Within each segment, the floor and ceiling are denoted by one number over a second number, or the letters \"SFC.\" The floor of the Dallas Executive (RBD) Class B airspace is 3,000 feet MSL. Reference: AIM 3-2-3"
+    },
+    {
+      "seq": 83,
+      "answer": "B",
+      "explanation": "Fentress NALF Airport (FNE) is in the middle of Areas 1, 2 and 6 on Figure 20. It is located in Class E airspace, depicted by the magenta dashed line surrounding it. Reference: Sectional Chart Legend"
+    },
+    {
+      "seq": 84,
+      "answer": "B",
+      "explanation": "Tabulations of parachute jump areas in the U.S. are contained in the Chart Supplements U.S. (formerly A/FD). Reference: Chart Supplements U.S."
+    },
+    {
+      "seq": 85,
+      "answer": "C",
+      "explanation": "Card Airport (located south of Figure 24, area 6) is a Private airport, indicated by \"PVT\" after the airport name and the circled \"R.\" This airport is depicted in magenta, which means it is non-towered. Reference: Sectional Chart Legend"
+    },
+    {
+      "seq": 86,
+      "answer": "A",
+      "explanation": "Notices to Airmen (NOTAMs) provide time-critical aeronautical information either temporary in nature or not sufficiently known in advance to permit publication on aeronautical charts or in other operational publications. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 87,
+      "answer": "B",
+      "explanation": "Refer to Legend 1. The entire flight for this route will be in Class G airspace. You do not need ATC authorization to operate in Class G airspace. Reference: Sectional Chart Legend"
+    },
+    {
+      "seq": 88,
+      "answer": "C",
+      "explanation": "Sioux Gateway/Col Day Airport (SUX) is located in Class D airspace as depicted by the blue segmented line surrounding it, up to 3,600 feet as indicated by the bracketed [36]. Reference: Sectional Chart Legend"
+    },
+    {
+      "seq": 89,
+      "answer": "C",
+      "explanation": "At those airports where the control tower does not operate 24 hours a day, the operating hours of the tower will be listed on the appropriate charts and in the A/FD. During the hours the tower is not in operation, the Class E surface area rules or a combination of Class E rules to 700 feet above ground level and Class G rules to the surface will become applicable. Check the A/FD for specifics. Reference: AIM 3-2-5: Class D Airspace"
+    },
+    {
+      "seq": 90,
+      "answer": "C",
+      "explanation": "Obstacles are depicted as an upside-down V. The top number, printed in bold, is the height of the obstruction above mean sea level (MSL). The second number in parentheses is the height of the obstruction above ground level (AGL). The highest obstacle 2 NM northeast of Hertford is 500 feet AGL. Reference: Sectional Chart Legend"
+    }
+  ]
+}

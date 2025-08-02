@@ -1,0 +1,354 @@
+{
+  "answers": [
+    {
+      "seq": 1,
+      "answer": "A",
+      "explanation": "A flyaway is when the sUAS becomes uncontrollable and does not operate in a manner that would be expected in a normal or lost link flight situation. Reference: 14 CFR Part 107"
+    },
+    {
+      "seq": 2,
+      "answer": "C",
+      "explanation": "Fatigue can be either acute (short-term) or chronic (long-term). Acute fatigue, a normal occurrence of everyday living, is the tiredness felt after long periods of physical and mental strain, including strenuous muscular effort, immobility, heavy mental workload, strong emotional pressure, monotony, and lack of sleep. Chronic fatigue occurs when there is not enough time for a full recovery from repeated episodes of acute fatigue. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 3,
+      "answer": "A",
+      "explanation": "Frequency interference is one of the most common causes of flyaways; therefore, remote PICs should assess the risk of such interference prior to and during flight. Extra caution is necessary when operating in the vicinity of other a sUAS. The loss of GPS may degrade the sUAS capabilities slightly but should not cause a flyaway. It is not unusual for people to stand near the control station; it is highly unlikely for this to cause a flyaway. Reference: AC 107-2"
+    },
+    {
+      "seq": 4,
+      "answer": "C",
+      "explanation": "An aircraft exiting a runway is not clear of the runway until all parts of the aircraft have crossed the applicable holding position marking. Reference: AIM 2-3-5"
+    },
+    {
+      "seq": 5,
+      "answer": "C",
+      "explanation": "The preferred source of information is the manufacturer's guidance about maintenance schedule and instructions, Reference: AC 107-2"
+    },
+    {
+      "seq": 6,
+      "answer": "B",
+      "explanation": "Remote PICs should monitor the appropriate aviation frequency such as CTAF during flight operations and make announcement concerning a sUAS operations as appropriate. Some a sUAS require the use of cellphone or tablet computers for operation, therefore are acceptable for use in most cases. The best way to avoid frequency interference is to check local frequency spectrum use prior to flight and continue to monitor such use during flight by utilizing a frequency spectrum analyzer. Reference: AC 107-2"
+    },
+    {
+      "seq": 7,
+      "answer": "A",
+      "explanation": "Follow all manufacturer maintenance recommendations to achieve the longest safest service life of the sUAS. If the sUAS or component manufacturer does not provide scheduled maintenance instructions, it is recommended that you establish your own scheduled maintenance protocol. Reference: AC 107-2"
+    },
+    {
+      "seq": 8,
+      "answer": "B",
+      "explanation": "The remote PIC is responsible for determining whether that aircraft is in condition for safe flight. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 9,
+      "answer": "B",
+      "explanation": "Hyperventilation is most likely to occur during period of stress or anxiety Reference: AIM 8-1-3"
+    },
+    {
+      "seq": 10,
+      "answer": "C",
+      "explanation": "Most a sUAS are designed to fly normally with minimal impact on features or controllability if GPS signals are degraded or lost. Loss of GPS is not an emergency and is not considered to be a loss of link between the unmanned aircraft and the control station. If the failure of GPS does result in a flyaway or other dangerous situation, it should be treated as an emergency. Reference: AC 107-2"
+    },
+    {
+      "seq": 11,
+      "answer": "A",
+      "explanation": "A pilot who has just landed should not change from the tower frequency to the ground control frequency until directed to do so by the controller Reference: AIM 4-3-14"
+    },
+    {
+      "seq": 12,
+      "answer": "B",
+      "explanation": "Most a sUAS are designed to fly normally with minimal impact on features or controllability if GPS signals are degraded or lost. Loss of GPS is not an emergency and is not considered to be a loss of link between the unmanned aircraft and the control station. If the failure of GPS does result in a flyaway or other dangerous situation, it should be treated as an emergency. Reference: AC 107-2"
+    },
+    {
+      "seq": 13,
+      "answer": "A",
+      "explanation": "Pilot performance can be seriously degraded by both prescribed and over-the-counter medications, as well as by the medical conditions for which they are taken. Flying is almost always precluded while using prescription analgesics since these drugs may cause side effects such as mental confusion, dizziness, headaches, nausea, and vision problems. Depressants, including antihistamines, lower blood pressure, reduce mental processing and slow motor and reaction responses. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 14,
+      "answer": "C",
+      "explanation": "The antiauthority (don’t tell me) attitude is found in people who do not like anyone telling them what to do. The antidote for this attitude is: follow the rules, they are usually right. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 15,
+      "answer": "A",
+      "explanation": "Damaged batteries should never be used or charged. Lithium batteries do normally get warm during discharge. Avoid the use of hot batteries. New batteries should be treated per manufacturing instructions, but do not normally need several charge cycles to use. Reference: SAFO 10017"
+    },
+    {
+      "seq": 16,
+      "answer": "B",
+      "explanation": "No person may operate a sUAS unless it is in a condition for safe operation. Prior to each flight, the remote pilot-in-command must check the sUAS to determine whether it is in a condition for safe operation. No person may continue flight of the small unmanned aircraft when he or she knows or has reason to know that the small unmanned aircraft system is no longer in a condition for safe operation Reference: 14 CFR 107.15"
+    },
+    {
+      "seq": 17,
+      "answer": "B",
+      "explanation": "The term \"initial radio contact\" or \"initial call-up\" means the first radio call you make to a given facility, or the first call to a different controller or Flight Service specialist within a facility. Use the following format:\n1. Name of the facility being called\n2. You full aircraft identification as filed in the flight plan\n3. Type of message to follow or your request if it is short\n4. The word \"over\" if required (typically omitted, except for communications via a remote communication outlet or in cases when it is necessary to confirm the end of a transmission Example: New York Radio, Mooney Three One One Echo, over When the aircrafts manufacturer's name or model is stated, the prefix \"N\" is dropped. The first two characters of the call sign may be dropped only after ATC calls you by your last three numbers Reference: AIM 4-2-3"
+    },
+    {
+      "seq": 18,
+      "answer": "C",
+      "explanation": "The pilot is responsible for determining whether he or she is fit to fly for a particular flight Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 19,
+      "answer": "A",
+      "explanation": "The fatigues pilot is an impaired pilot, and flying requires unimpaired judgment. Reference: FAA-H-8083-2"
+    },
+    {
+      "seq": 20,
+      "answer": "A",
+      "explanation": "During a flyaway event a sUAS may not react in ways that can be expected or predicted thus this is an emergency situation. The remote PIC should immediately communicate this emergency to crew members and ATC (if applicable) as well as any persons in the immediate area so as to minimize risk for injury. There is no obligation to contact the NTSB or law enforcement during a flyaway. Reference: 14 CFR 107.19, 107.21"
+    },
+    {
+      "seq": 21,
+      "answer": "B",
+      "explanation": "The preflight inspection should be a thorough and systematic means by which the remote PIC determines that the sUAS is ready for safe flight. Most aircraft flight manuals or Pilot's operating handbooks contain a section on preflight inspection that should be used for guidance in this Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 22,
+      "answer": "A",
+      "explanation": "The remote PIC must inspect the sUAS before each flight Reference: 14 CFR 107.49"
+    },
+    {
+      "seq": 23,
+      "answer": "C",
+      "explanation": "All participants in the sUAS operation and ATC (if operating within or near controlled airspace) should be notified of the lost link situation, an emergency should be declared. There is no obligation to contact law enforcement. It is never recommended to turn off the control station when the UA engines are running or if it is in flight. Reference: AC 107-2, 14 CFR 107.21"
+    },
+    {
+      "seq": 24,
+      "answer": "A",
+      "explanation": "MULTICOM frequency is always 122.9 MHz and the correct procedure is to broadcast intentions when 10 miles from the airport Reference: AIM 4-1-9"
+    },
+    {
+      "seq": 25,
+      "answer": "B",
+      "explanation": "When there is no tower, Flight service, or UNICOM station on the airport use MULTICOM frequency 122.9 for self-announce procedures. Such airports will be identified in the appropriate aeronautical information publications. Reference: AIM 4-1-9"
+    },
+    {
+      "seq": 26,
+      "answer": "A",
+      "explanation": "To avoid missing important steps, always use the appropriate checklists whenever, they are available. Consistent adherence to approved checklists is a sign if a disciplined and competent pilot. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 27,
+      "answer": "C",
+      "explanation": "Impulsivity, as a hazardous attitude, has the motto \"Do it quickly\" The person frequently feels the need to do something, anything, immediately. He or she does not stop to think about the best alternative and does the first thing that comes to mind. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 28,
+      "answer": "B",
+      "explanation": "Up to but not including 18,000 feet MSL, state the separate digits of the thousands, plus the hundreds, if appropriate. Example: \"4,500-four thousand, five hundred\" Reference: AIM 4-2-9"
+    },
+    {
+      "seq": 29,
+      "answer": "B",
+      "explanation": "The absence of a sky condition or ceiling and/or visibility on ATIS indicates a ceiling of 5,000 feet or above and visibility of 5 miles or more. Reference: AIM 4-1-13"
+    },
+    {
+      "seq": 30,
+      "answer": "A",
+      "explanation": "Risk management is the part of the decision making process that relies on situational awareness, problem recognition, and good judgment to reduce the risks associated with each flight. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 31,
+      "answer": "C",
+      "explanation": "Where there is no tower or UNICOM station on the airport, use MULTICOM frequency 122.9 for self-announce procedures. Reference: AIM 4-1-9"
+    },
+    {
+      "seq": 32,
+      "answer": "A",
+      "explanation": "An abnormal increase in the volume of air breathed in and out of the lungs flushes an excessive amount of carbon dioxide from the lungs and blood, causing hyperventilation Reference: AIM 8-1-3"
+    },
+    {
+      "seq": 33,
+      "answer": "B",
+      "explanation": "A culture of safety must be established with all commercial a sUAS operations. This safety culture may use a number of techniques including situational awareness, risk based aeronautical decision making (ADM) crew resource management (CRM) and safety management systems (SMS) Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 34,
+      "answer": "C",
+      "explanation": "Pilots of inbound traffic should monitor and communicate as appropriate on the designated CTAF from 10 miles to landing. Pilots of departing aircraft should monitor/ communicate on the appropriate frequency from start-up, during taxi and until 10 miles from the airport unless the regulations or local procedures require otherwise. Refere1nce: AIM 4-1-9"
+    },
+    {
+      "seq": 35,
+      "answer": "C",
+      "explanation": "ATIS is the continuous broadcast of recorded non-control information in selected high activity terminal areas Reference: AIM 4-1-13"
+    },
+    {
+      "seq": 36,
+      "answer": "A",
+      "explanation": "The remote PIC must inspect the sUAS before each flight Reference: 14 CFR 107.49"
+    },
+    {
+      "seq": 37,
+      "answer": "B",
+      "explanation": "Follow all manufacturer maintenance recommendations to achieve the longest safest service life of the sUAS. By abiding by the more restrictive limitation or component life cycle the remote PIC will be assured of being in compliance of both the sUAS and battery manufacturers' guidelines Reference: AC 107-2"
+    },
+    {
+      "seq": 38,
+      "answer": "A",
+      "explanation": "Traffic information will be given in azimuth from the aircraft in terms of the 12 hour clock. Thus each hour would constitute an angle of 30 degrees. If an aircraft is proceeding on a heading of 090 degrees (east) traffic located at 3'o clock position would be 90 degrees right of the nose, south of the aircraft. If the sUAS is being operated to the south of the aircraft, the aircraft itself is to the north of the operation. Reference: AIM 4-1-15"
+    },
+    {
+      "seq": 39,
+      "answer": "B",
+      "explanation": "An aircraft flying north in calm wind would be heading 360 degrees. When advised of traffic at the 9'O clock position, the pilot should look 90 degrees left of the nose, to the west but the Remote PIC and a sUAS need to look to the east as they are to the west of the manned aircraft Reference: AIM 4-1-15"
+    },
+    {
+      "seq": 40,
+      "answer": "C",
+      "explanation": "Crew members should express any and all concerns about decisions of the remote PIC or other crew members at any time. Clearly, the remote PIC is in charge, but that doesn’t not always make them right or invulnerable to errors, omissions, or other potentially hazardous instances Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 41,
+      "answer": "C",
+      "explanation": "If the operation is to take place in the afternoon, the sun will be setting towards the west and could impair the vision of those participating in the sUAS operation. Thus, when practical, the operation should be set up to minimize the impact of the sun on being able to maintain the visual line of sight with the unmanned aircraft Reference: FAA-H-8083-25, 14 CFR 107.31"
+    },
+    {
+      "seq": 42,
+      "answer": "A",
+      "explanation": "Risk management is the part of the decision making process that relies on situational awareness, problem recognition, and good judgment to reduce the risks associated with each flight. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 43,
+      "answer": "B",
+      "explanation": "Both lithium metal and lithium-ion batteries are highly flammable and capable of self-ignition when a battery short circuits or is overcharged, heated to extreme temperature, mishandled or otherwise defective Reference: SAFO 10017"
+    },
+    {
+      "seq": 44,
+      "answer": "A",
+      "explanation": "Machoism, as a hazardous attitude, has the motto \"I can do it, I'll show them\" The person tries to prove that he or she is better than anyone else. The person takes risks to impress others. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 45,
+      "answer": "C",
+      "explanation": "If the operation is to take place in snow covered environment, awareness concerning how this may impact vision, such as a glare or the ability to see and operate the unmanned aircrafts against a featureless background. Thus, when practical, the operation should be set up to minimize the impact of the sun on being able to maintain the visual line of sight with the unmanned aircraft Reference: FAA-H-8083-25, 14 CFR 107.31"
+    },
+    {
+      "seq": 46,
+      "answer": "A",
+      "explanation": "As a pilot, flying for long periods in hot summer temperatures or at high altitudes increases the susceptibility of dehydration since the dry air at altitude tends to increase the rate of water loss from the body. If this fluid is not replaced, fatigue progresses to dizziness, weakness, nausea, tingling of hands and feet, abdominal cramps, and extreme thirst. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 47,
+      "answer": "B",
+      "explanation": "Follow all manufacturer maintenance recommendations to achieve the longest and safest service life of the sUAS. If the sUAS or component manufacturer does not provide scheduled maintenance instructions, it is recommended that you establish your own scheduled maintenance protocol. Reference: AC 107-2"
+    },
+    {
+      "seq": 48,
+      "answer": "B",
+      "explanation": "Crew resource management is the effective use of all available resources - human, hardware and information - prior to and during flight to ensure a successful outcome of the operation. The remote PIC must integrate crew resource management techniques into all phases of the sUAS operation. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 49,
+      "answer": "A",
+      "explanation": "Acute fatigue is short term and is normal occurrence in everyday living. It is the kind of tiredness people feel after a period of strenuous effort, excitement, or lack of sleep."
+    },
+    {
+      "seq": 50,
+      "answer": "C",
+      "explanation": "ADM addresses the following five hazardous attitudes. Antiauthority (don’t tell me) impulsivity (do something quickly) invulnerability (it won’t happen to me) machoism (I can do it) resignation (what’s the use) Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 51,
+      "answer": "A",
+      "explanation": "Pilots should state their position on the airport, when calling the tower for takeoff from a runway intersection Reference: AIM 4-3-10"
+    },
+    {
+      "seq": 52,
+      "answer": "B",
+      "explanation": "When in doubt, remove and replace any damaged part. If repair is allowed, it should be outlined by the manufacturer. Remote PICs should consult with the manufacturer about such repair. Reference: AC 107-2"
+    },
+    {
+      "seq": 53,
+      "answer": "A",
+      "explanation": "using standard phraseology, remote PICs/ crew should clearly communicate the position of the sUAS operation in relation to a known geographic location and any other information that may help the manned aircraft be aware of and avoid conflicting with the a sUAS Reference: AIM 4-1-15, AC 107-2"
+    },
+    {
+      "seq": 54,
+      "answer": "C",
+      "explanation": "Flight Service Stations (FSS's) are air traffic facilities that provide pilot briefings, enroute communications and VFR search-and-rescue services, assist lost aircraft and aircraft in emergency situations, relay ATC clearances, originate notice to Airmen, broadcast aviation weather and NAS information, receive and process IFR flight plans, and monitor NAVAIDs. In addition, FSS's take weather observations, issue airport advisories, advise customs and immigration of transborder flights, and provide En route flight advisory service (Flight watch) (in Alaska only) Reference: AIM 4-1-3"
+    },
+    {
+      "seq": 55,
+      "answer": "B",
+      "explanation": "Crew resource management is the effective use of all available resources - human, hardware and information - prior to and during flight to ensure a successful outcome of the operation. Reference: AC 107-2"
+    },
+    {
+      "seq": 56,
+      "answer": "A",
+      "explanation": "Fatigue is one of the most treacherous hazards to flight safety as it may not be apparent to a pilot until serious errors are made. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 57,
+      "answer": "B",
+      "explanation": "Getting behind the aircraft\" or falling can result in not knowing where you are, an inability to recognize deteriorating circumstances, and/or the misjudgment of the rate of deterioration Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 58,
+      "answer": "B",
+      "explanation": "Your first action should be to seek out the manufacturer's guidance about replacement or disposal. Do not use damaged batteries, as they may self-ignite during flight or if charged. Reference: AC 107-2"
+    },
+    {
+      "seq": 59,
+      "answer": "A",
+      "explanation": "CTAF is designed for the purpose of carrying out airport advisory practices and/or position reporting at an uncontrolled airport (which may also occur during hours when a tower is closed). The CTAF may be a UNICOM, MULTICOM, FSS, or tower frequency and is identified in the appropriate aeronautical publications. On the sectional chart, a solid dot with the letter \"C\" inside indicates Common Traffic Advisory Frequency. When the control tower operates part time and a UNICOM frequency is provided, use the UNICOM frequency. Reference: AIM 4-1-9"
+    },
+    {
+      "seq": 60,
+      "answer": "C",
+      "explanation": "CTAF is a frequency designed for the purpose of carrying out airport advisory practices and/or position reporting at an uncontrolled airport (which may also occur during hours when a tower is closed). The CTAF may be a UNICOM, MULTICOM, FSS, or tower frequency and is identified in the appropriate aeronautical publications. A solid dot with the letter \"C\" inside indicates CTAF. When the control tower operates part time and a UNICOM frequency is provided, use the UNICOM frequency. Reference: AIM 4-1-9"
+    },
+    {
+      "seq": 61,
+      "answer": "A",
+      "explanation": "Situational awareness is the accurate perception and understanding of all the factors and conditions within the five fundamental risk elements (flight, pilot, aircraft, environment, and type of operation that comprise any given aviation situation) that affect safety before, during, and after the flight. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 62,
+      "answer": "C",
+      "explanation": "To fly safely, the pilot needs to assess the degree of risk and determine the best course of action to mitigate the risk. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 63,
+      "answer": "B",
+      "explanation": "There are several techniques to help manage the accumulation of life stresses and prevent stress overload. For example, to help reduce stress levels, set aside time for relaxation each day or maintain a program of physical fitness. To prevent stress overload, learn to manage time more effectively to avoid pressure imposed by getting behind schedule and not meeting deadlines. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 64,
+      "answer": "C",
+      "explanation": "Virtually all medications have the potential for adverse side effects in some people. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 65,
+      "answer": "A",
+      "explanation": "Aircraft call signs should be spoken in their entirety, using the phonetic alphabet. Numbers are spoken individually. Reference: AIM 4-2-3"
+    },
+    {
+      "seq": 66,
+      "answer": "C",
+      "explanation": "Impulsivity (do something quickly!) is the attitude of people who frequently feel the need to do something, anything, immediately. They do not stop to think about what they are about to do, they do not select the best alternative, and they do the first think that comes to mind. The antidote for this attitude is: Not so fast. Think first. (PLT103) – FAA-H-8083-25"
+    },
+    {
+      "seq": 67,
+      "answer": "B",
+      "explanation": "Follow all manufacturer maintenance recommendations to achieve the longest and safest service life of the sUAS. If the sUAS or component manufacturer does not provide scheduled maintenance instructions, it is recommended that you establish your own scheduled maintenance protocol. Reference: AC 107-2"
+    },
+    {
+      "seq": 68,
+      "answer": "C",
+      "explanation": "Minot International airport (MOT) is in Class D airspace, depicted by the dashed blue lines. You should monitor the Control Tower frequency 118.2 to hear manned aircraft and ATC communications operating in this vicinity. Answer (A) is incorrect because the UNICOM frequency will only provide airport activity information when the control tower is not operating. Answer (B) is incorrect because the ASOS frequency will provide weather information for that airport but not activity information. Reference: Sectional Chart Legend"
+    },
+    {
+      "seq": 69,
+      "answer": "B",
+      "explanation": "Lithium-based batteries are highly flammable and capable of ignition. A battery fire could lead to an in-flight emergency by causing a loss of control of the small UA. Lithium battery fires can occur when a battery short-circuits, is improperly charged, is heated to extreme temperatures, is damaged as a result of a crash, is mishandled, or is simply defective. The remote PIC should follow the manufacturer's recommendations to help ensure safe battery handling and usage. Reference: AC 107-2"
+    },
+    {
+      "seq": 70,
+      "answer": "A",
+      "explanation": "ADM provides a structured, systematic approach to analyzing changes that may occur during a flight and how these changes might affect the safe outcome of that flight. The ADM process addresses all aspects of decision making for the crew and identifies the steps involved in good decision making."
+    }
+  ]
+}
