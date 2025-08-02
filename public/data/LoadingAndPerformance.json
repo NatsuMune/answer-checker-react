@@ -1,0 +1,149 @@
+{
+  "answers": [
+    {
+      "seq": 1,
+      "answer": "A",
+      "explanation": "Any mounted equipment should be balanced in a manner that does not adversely affect the center of gravity or result in unsafe performance. Reference: AC 107-2"
+    },
+    {
+      "seq": 2,
+      "answer": "A",
+      "explanation": "Loading the aircraft outside of limitations (weight, balance, or both) may lead to moments that exceed the capabilities of the flight controls/ engine (s), thus possibly leading to loss of control or other performance anomalies? Reference: FAA-H8083-1"
+    },
+    {
+      "seq": 3,
+      "answer": "B",
+      "explanation": "The airfoil will stall if the critical angle of attack is exceeded. Reference: FAA-H-8083-3"
+    },
+    {
+      "seq": 4,
+      "answer": "B",
+      "explanation": "The maximum endurance condition is obtained at the point of minimum power required since this would require the lowest fuel flow or battery to keep the sUAS in steady, level flight. Maximum range condition occurs where the proportion between speed and power required is greatest. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 5,
+      "answer": "A",
+      "explanation": "Total range is dependent on both fuel available and specific range. When range and economy of operation are the principal goals, the remote pilot must ensure that the sUAS is operated at the recommended long range cruise condition. By this procedure, the sUAS will be capable of its maximum design-operating radius, or can achieve lesser flight distances with a maximum of fuel reserve at the destination Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 6,
+      "answer": "C",
+      "explanation": "The manufacturer is the best source of performance data and information, if available Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 7,
+      "answer": "B",
+      "explanation": "Refer to Figure 2 and use the following steps\n1. Enter the chart at a 60 degree angle of bank and proceed upward to the curved reference line. \n2. From the point of intersection, move to the left side of the chart and read a load factor of 2Gs.\n3. Multiply the aircraft weight by the load factor: 10x2=20 lbs. or working from the table 10x2.0 (load factor) = 20 lbs.\nReference: FAA-H-8083-25"
+    },
+    {
+      "seq": 8,
+      "answer": "A",
+      "explanation": "The effect of runway slope on launch distance is due to the component of weight along the inclined path of the aircraft. An upslope would contribute an accelerating force component. In the case of an upslope, the retarding force component adds to drag and rolling friction to reduce the net accelerating force. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 9,
+      "answer": "C",
+      "explanation": "Unmanned airplane performance can be decreased due to an increase in load factor when the airplane is operated in maneuvers other than straight and level flight. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 10,
+      "answer": "C",
+      "explanation": "The most critical conditions of launch performance are the result of some combination of high gross weight, altitude, temperature and unfavorable wind. In all cases the remote pilot must make and accurate prediction of take-off distance from the performance data of the AFM/ POH, regardless of the runway available, and strive for polished, professional launch procedures. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 11,
+      "answer": "A",
+      "explanation": "Prior to each flight, the remote PIC must ensure that any object attached to or carried by the small unmanned aircraft is secure and does not adversely affect the flight characteristics or controllability of the aircraft Reference: AC 107-2"
+    },
+    {
+      "seq": 12,
+      "answer": "B",
+      "explanation": "Stall speed increases in proportion to the square root of the load factor. Thus, with a load factor of 4, an aircraft will stall, at a speed which is double the normal stall speed. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 13,
+      "answer": "C",
+      "explanation": "To determine altitude, with the sUAS on the ground, the remote pilot and VO should pace off 400 feet from the sUAS to get a visual perspective of the sUAS at that distance, wherein the remote pilot and VO maintain that visual perspective or closer while the sUAS is in flight Reference: AC 107-2"
+    },
+    {
+      "seq": 14,
+      "answer": "A",
+      "explanation": "Referencing Appendix 1, Figure 2, use the following steps:\n1. Enter the chart at a 30 degree angle of bank and proceed upward to the curved reference line. From the point of intersection, move to the left side of the chart and read an approximate load factor of 1.2 Gs.\n2. Multiply the aircraft weight by the load factor: 33*1.2=39.6 lbs. Or, working from the table:33*1.154 (load factor)= 38.1 lbs.\nReference: FAA-H-8083-25"
+    },
+    {
+      "seq": 15,
+      "answer": "B",
+      "explanation": "When the angle of attack is increased to between 18 and 20 degrees (critical angle of attack) on most airfoils the airstream can no longer follow the upper curvature of the wing because of the excessive change in direction. The airfoil will stall if the critical angle of attack is exceeded. The airspeed at which stall occurs will be determined by weight and load factor, but the stall angle of attack is the same. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 16,
+      "answer": "A",
+      "explanation": "Without a GPS or manufacturer performance data, you can determine speed of the sUAS when it is flown between two or more fixed points, taking into account wind speed and direction between each point, then noting the power settings of the sUAS to operate at or less than 87 knots ground speed. This is a form of dead reckoning. Reference: FAA-H-8083-25,AC 107-2"
+    },
+    {
+      "seq": 17,
+      "answer": "B",
+      "explanation": "At slow speeds, the maximum available lifting force of the wing is only slightly greater than the amount necessary to support the weight of the sUAS. However, at high speeds, the capacity of the flight controls or a strong gust, may increase the load factor beyond safe limits, Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 18,
+      "answer": "A",
+      "explanation": "The angle of attack is the acute angle between the relative wind and the chord line of the wing. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 19,
+      "answer": "C",
+      "explanation": "Excessive weight reduces the flight performance in almost every respect, including a shorter endurance. In addition, operating above the maximum weight limitation can compromise the structural integrity of an unmanned aircraft. Reference: AC 107-2"
+    },
+    {
+      "seq": 20,
+      "answer": "C",
+      "explanation": "In addition to local resources, the sectional chart for that region should be consulted for information or the altitude of the terrain and structures. Towers and other known obstructions are depicted with their altitude noted. Reference: Sectional chart"
+    },
+    {
+      "seq": 21,
+      "answer": "A",
+      "explanation": "Use the following steps:\n1. Enter the chart at a 30 degree angle of bank and proceed upward to the curved reference line. From the point of intersection, move to the left side of the chart and read an approximate load factor of 1.2 Gs.\n2. Multiply the aircraft weight by the load factor: 50*1.2= 60 lbs. Or, working from the table: 50*1.154 (load factor) = 57.7 lbs.\nReference: FAA-H-8083-25"
+    },
+    {
+      "seq": 22,
+      "answer": "B",
+      "explanation": "A change in speed during straight flight will not produce any appreciable change in load but when a change is made in the sUAS flight path, an additional load is imposed upon the structure. This is particularly true if a change in direction is made at high speeds with rapid, forceful control movements. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 23,
+      "answer": "A",
+      "explanation": "Before any flight, verify that the unmanned aircraft is correctly loaded by determining the weight and balance condition. Review any available manufacturer weight and balance data and follow all restrictions and limitations. Reference: FAA-H-8083-1"
+    },
+    {
+      "seq": 24,
+      "answer": "C",
+      "explanation": "It is the responsibility of the remote PIC to use the most current weight and balance data when planning a flight and operating the sUAS. Reference: FAA-H-8083-1"
+    },
+    {
+      "seq": 25,
+      "answer": "B",
+      "explanation": "The remote PIC is responsible for ensuring that every flight can be accomplished safely, does not pose an undue hazard, and does not increase the likelihood of a loss of positive control. Reference: 14 CFR 107.12"
+    },
+    {
+      "seq": 26,
+      "answer": "A",
+      "explanation": "The purpose of the rudder is to control yaw. Answer (B) is incorrect because the ailerons control bank. Answer (C) is incorrect because pitch is controlled by the elevator. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 27,
+      "answer": "A",
+      "explanation": "In addition to local resources, the sectional chart for that region should be consulted for information on the altitude of the terrain and structures. Towers and other known obstructions are depicted with their altitude noted. Reference: Sectional Chart"
+    },
+    {
+      "seq": 28,
+      "answer": "B",
+      "explanation": "Stall speed increases in proportion to the square root of the load factor. Thus, with a load factor of 4, an aircraft will stall at a speed which is double the normal stall speed. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 29,
+      "answer": "A",
+      "explanation": "Operation with the center of gravity (CG) outside the approved limits results in control difficulty. Reference: FAA-H-8083-25"
+    }
+  ]
+}

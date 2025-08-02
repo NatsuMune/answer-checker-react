@@ -1,0 +1,449 @@
+{
+  "answers": [
+    {
+      "seq": 1,
+      "answer": "A",
+      "explanation": "You may operate a sUAS from a moving vehicle if you are in a sparsely populated area and the driver does not serve as the remote PIC, person manipulating the controls, or visual observer. Reference: 14 CFR 107.25"
+    },
+    {
+      "seq": 2,
+      "answer": "C",
+      "explanation": "You may not operate a small unmanned aircraft directly over another person unless that person is directly involved in the operation (such as a visual observer or other crew member) or within a safe cover, such as inside a stationary vehicle or a protective structure that would protect a person from harm if the small unmanned aircraft were to crash into that structure. Reference: 14 CFR 107.39"
+    },
+    {
+      "seq": 3,
+      "answer": "C",
+      "explanation": "This scenario is not compliant with Part 107. You may not operate over non-participants without safe cover and you may not drop objects in a manner that creates hazard."
+    },
+    {
+      "seq": 4,
+      "answer": "A",
+      "explanation": "A remote pilot-in-command must be used during Part 107 a sUAS operations. A visual observer is optional. The person manipulating the controls may be the remote PIC, or must be operating under the direct supervision of the remote PIC. Reference:14 CFR 107.19"
+    },
+    {
+      "seq": 5,
+      "answer": "B",
+      "explanation": "A person may not operate or act as a remote pilot-in-command or visual observer in the operation of more than one unmanned aircraft at the same time."
+    },
+    {
+      "seq": 6,
+      "answer": "B",
+      "explanation": "An unmanned aircraft means an aircraft operated without the possibility of direct human intervention from within or on the aircraft. Reference: 14 CFR 107.1, 107.3, AC 107-2"
+    },
+    {
+      "seq": 7,
+      "answer": "C",
+      "explanation": "No items may be dropped from the small unmanned aircraft in a manner that creates undue hazard to persons or property. Reference: 14 CFR 107.23"
+    },
+    {
+      "seq": 8,
+      "answer": "B",
+      "explanation": "The sUAS cannot be flown faster than a ground speed of 87 knots (100mph) and must be operated below 400 feet. Reference: 14 CFR 107.51"
+    },
+    {
+      "seq": 9,
+      "answer": "A",
+      "explanation": "Except in an emergency, no person may operate an aircraft contrary to an ATC clearance or instruction. Reference: 14 CFR 107.21"
+    },
+    {
+      "seq": 10,
+      "answer": "B",
+      "explanation": "Owners must register the sUAS if it is greater than 0.55 lbs., less than 55 pounds and operated under the provisions of the 14 CFR Part 107. Reference: 14 CFR 107.13"
+    },
+    {
+      "seq": 11,
+      "answer": "C",
+      "explanation": "When a sUAS operations are conducted during civil twilight, the sUAS must be equipped with anti-collision lights that are capable of being visible for at least 3 statute miles. Reference: 14 CFR 107.29"
+    },
+    {
+      "seq": 12,
+      "answer": "A",
+      "explanation": "Lithium batteries that are installed in a sUAS for power during the operation are not considered a hazardous material under Part 107. However, spare (uninstalled) lithium batteries would meet the definition of hazardous material and may not be carried on the sUAS. Reference: AC 107-2"
+    },
+    {
+      "seq": 13,
+      "answer": "B",
+      "explanation": "In case of an in-flight emergency, the remote PIC is permitted to deviate from any rule of Part 107 to the extent necessary to respond to that emergency. Reference: 14 CFR 107.21"
+    },
+    {
+      "seq": 14,
+      "answer": "A",
+      "explanation": "Although not required by Part 107, the FAA encourages applicants to submit their application at least 90 days prior to the start of the proposed operation. The FAA will strive to complete review and adjudication of waiver within 90 days; however, the time required for the FAA to make a determination regarding waiver requests will vary based on the complexity of the request. Reference: AC 107-2"
+    },
+    {
+      "seq": 15,
+      "answer": "C",
+      "explanation": "The remote PIC must report any a sUAS accident to the FAA, within 10 days of the operation, if a serious injury to any person or any loss of consciousness occurs. It would be considered a serious injury if a person requires hospitalization. Reference: 14 CFR 107.9, AC 107-2"
+    },
+    {
+      "seq": 16,
+      "answer": "C",
+      "explanation": "Remote pilot certificate holders with a sUAS rating must meet the recurrent training requirements after 24 months. This retraining can be satisfied by completing the online FAA course or taking the FAA knowledge exam. Reference: 14 CFR Part 107.63 and 107.65; AC 107-2"
+    },
+    {
+      "seq": 17,
+      "answer": "B",
+      "explanation": "The sUAS must remain within visual line of sight (VLOS) of flight crew members. The VLOS requirement would not prohibit actions such as scanning the airspace or briefly looking down at the sUAS control station. Should the remote PIC or person manipulating the controls lose VLOS of the small UA, he or she must regain VLOS as soon as possible. Reference: 14 CFR 107.31"
+    },
+    {
+      "seq": 18,
+      "answer": "B",
+      "explanation": "The remote pilot application must be submitted to a Flight Standards District Office (FSDO), a designated pilot examiner (DPE), an airman certification representative for a pilot school, a certified flight instructor (CFI), or other person authorized by the Administrator to process the application. Reference: 14 CFR 107.63 and 61.56"
+    },
+    {
+      "seq": 19,
+      "answer": "C",
+      "explanation": "The remote PIC or person manipulating the flight controls of a sUAS must comply with the \"do not operate while impaired\" regulations. Reference: 14 CFR 107.19 (b), 107.19(d) and 107.57"
+    },
+    {
+      "seq": 20,
+      "answer": "C",
+      "explanation": "Owners must register the sUAS if it is greater than 0.55 lbs., less than 55 pounds and operated under the provisions of the 14 CFR Part 107. Reference: 14 CFR 107.13"
+    },
+    {
+      "seq": 21,
+      "answer": "C",
+      "explanation": "Each remote pilot shall, before each flight, assess the operating environment including local weather condition, local airspace and any flight restrictions, the location of persons and property on the surface, and other ground hazards. Reference: 14 CFR 107.49"
+    },
+    {
+      "seq": 22,
+      "answer": "B",
+      "explanation": "As little as one ounce of liquor, one bottle of beer, or four ounces of wine can impair flying skills. Reference: AIM 8-1-1"
+    },
+    {
+      "seq": 23,
+      "answer": "A",
+      "explanation": "The remote PIC must be able to maneuver the sUAS to avoid a collision and prevent other aircraft from having to take evasive action. Reference: 14 CFR 107.37"
+    },
+    {
+      "seq": 24,
+      "answer": "A",
+      "explanation": "14 CFR Part 107 does not apply to model aircraft that meet the criteria in 14 CFR 101.41, amateur rockets, moored balloons or unmanned free balloons, kites, operations conducted outside the United States, public aircraft operations, and air carrier operations."
+    },
+    {
+      "seq": 25,
+      "answer": "B",
+      "explanation": "The sUAS must be registered by a person who is at least 13 years of age Reference: 14 CFR 107.13, 91.2013"
+    },
+    {
+      "seq": 26,
+      "answer": "C",
+      "explanation": "A remote pilot-in-command, owner, or person manipulating the flight controls of a small unmanned aircraft must, upon request, make available to the administrator: (1) the remote pilot certificate with a small UAS rating; and (2) any other document, record, or report required. Reference: 14 CFR 107.7"
+    },
+    {
+      "seq": 27,
+      "answer": "A",
+      "explanation": "A person who does not hold a remote pilot certificate or a remote pilot that has not met the recurrent testing/training requirements of part 107 may operate the sUAS under Part 107, as long as he or she is directly supervised by a remote PIC and the remote PIC has the ability to immediately take direct control of the a sUAS. Reference: 14 CFR 107.12"
+    },
+    {
+      "seq": 28,
+      "answer": "B",
+      "explanation": "This a sUAS operation is subject to 14 CFR part 107 because the aerial imagery is for the furtherance of a business, making it commercial in nature. Reference: 14 CFR 107.3"
+    },
+    {
+      "seq": 29,
+      "answer": "A",
+      "explanation": "The remote PIC must complete a preflight familiarization, inspection, and other actions, such as crew member briefings, prior to beginning flight operations. Reference: 14 CFR 107.49"
+    },
+    {
+      "seq": 30,
+      "answer": "B",
+      "explanation": "The sUAS cannot be flown higher than 400 feet AGL unless flown within a 400-foot radius of a structure and is not flown higher than 400 feet above the structure's immediate upper-most limit. Reference: 14 CFR 107.51"
+    },
+    {
+      "seq": 31,
+      "answer": "C",
+      "explanation": "The FAA has stated that they will not provide waivers for beyond VLOS during the carriage of goods for hire. Also, moving vehicles (land or sea) are not authorized to be used during flights upon which goods are carried for hire. Reference: AC 107-2"
+    },
+    {
+      "seq": 32,
+      "answer": "C",
+      "explanation": "Each remote PIC who deviates from a rule in Part 107 must, upon request of the FAA administrator, send a written report of that deviation to the Administrator Reference: 14 CFR 107.21"
+    },
+    {
+      "seq": 33,
+      "answer": "A",
+      "explanation": "Report any a sUAS accident to the FAA within 10 days if it results in serious injury, loss of consciousness, or repairs costing over $500. Reference: 14 CFR 107.9"
+    },
+    {
+      "seq": 34,
+      "answer": "B",
+      "explanation": "14 CFR 65.20 states that any person who falsifies or makes a fraudulent entry in a logbook, report or record is subject to the suspension or revocation of any airman or ground instructor certificate or rating held by that person. Reference: 14 CFR 107.6"
+    },
+    {
+      "seq": 35,
+      "answer": "A",
+      "explanation": "No person may act as a pilot-in0command (PIC), or in any other capacity as a required pilot flight crew member when operating a sUAS unless he or she has in possession or readily accessible a current-pilot certificate. Reference: 14 CFR 107.7"
+    },
+    {
+      "seq": 36,
+      "answer": "B",
+      "explanation": "A remote pilot may not act as pilot-in-command of a sUAS at night. A remote pilot must land by the end of evening twilight. Reference: 14 CFR 107.29"
+    },
+    {
+      "seq": 37,
+      "answer": "A",
+      "explanation": "Each remote PIC who deviates from a rule in Part 107 must, upon request of the FAA administrator, send a written report of that deviation to the Administrator. Reference: 14 CFR 107.21"
+    },
+    {
+      "seq": 38,
+      "answer": "C",
+      "explanation": "No person may manipulate the flight controls of a small unmanned aircraft system or act as a remote pilot-in-command, visual observer, or direct participant in the operation of the small unmanned aircraft if he or she knows or has reason to know that he or she has a physical or mental condition that would interfere with the safe operation of the small unmanned aircraft system. Reference: 14 CFR 107.17"
+    },
+    {
+      "seq": 39,
+      "answer": "A",
+      "explanation": "A refusal to submit to a test to indicate the percentage by weight of alcohol in the blood, when requested by a law enforcement officer, or a refusal to furnish or authorize the release of the test results requested by the Administrator, is grounds for denial of an application for a remote pilot certificate with a small UAS rating for a period of up to 1 year after the date of that refusal; or suspension or revocation of a remote pilot certificate with a small UAS rating. Reference: 14 CFR 107.59"
+    },
+    {
+      "seq": 40,
+      "answer": "B",
+      "explanation": "No person may act, or attempt to act, as a crew member of a civil aircraft while having .04 percent or more, by weight alcohol in the blood. Reference: 14 CFR 107.27, 91.17"
+    },
+    {
+      "seq": 41,
+      "answer": "C",
+      "explanation": "The remote PIC must hold a Part 107 remote pilot certificate with a sUAS rating before conducting any a sUAS operation Reference: 14 CFR 107.12"
+    },
+    {
+      "seq": 42,
+      "answer": "C",
+      "explanation": "The sUAS cannot be flown faster than a ground speed of 87 knots (100mph). Reference: 14 CFR 107.51"
+    },
+    {
+      "seq": 43,
+      "answer": "A",
+      "explanation": "The visual observer (when asked by the remote PIC) maintains visual line of sight with a sUAS and reports any potential hazards to the remote PIC and person manipulating the controls. Reference: 14 CFR 107.33"
+    },
+    {
+      "seq": 44,
+      "answer": "A",
+      "explanation": "Small unmanned aircraft (a sUAS) means an unmanned aircraft weighing less than 55 pounds on takeoff, including everything that is on board or otherwise attached to the aircraft. Reference: 14 CFR 107.1, AC 107-2"
+    },
+    {
+      "seq": 45,
+      "answer": "C",
+      "explanation": "Operation of a sUAS is permitted from a moving land or waterborne vehicle over a sparsely populated (or unpopulated) area. Reference: 14 CFR 107.25"
+    },
+    {
+      "seq": 46,
+      "answer": "A",
+      "explanation": "Operation of a sUAS is permitted from a moving land or waterborne vehicle over a sparsely populated (or unpopulated) area. Reference: 14 CFR 107.25"
+    },
+    {
+      "seq": 47,
+      "answer": "B",
+      "explanation": "If the remote PIC determines that the operation cannot be conducted within the regulatory structure of Part 107, he or she is responsible for applying for a Certificate of Waiver (COW) and proposing a safe alternative to the operation. This COW will allow a sUAS operation to deviate from certain provisions to Part 107 as long as the FAA finds that the proposed operation can be safely conducted under the terms of that Certificate of Waiver. Reference: 14 CFR 107.200"
+    },
+    {
+      "seq": 48,
+      "answer": "A",
+      "explanation": "Report any a sUAS accident to the FAA within 10 days if it results in serious injury, loss of consciousness, or repairs costing over $500. Reference: 14 CFR 107.9"
+    },
+    {
+      "seq": 49,
+      "answer": "C",
+      "explanation": "Part 107 regulates commercial a sUAS operations. Reference: 14 CFR 107.41 and 107.1"
+    },
+    {
+      "seq": 50,
+      "answer": "A",
+      "explanation": "You may not operate a small unmanned aircraft directly over another person unless that person is directly involved in the operation (such as a visual observer or other crew member) or within a safe cover, such as inside a stationary vehicle or a protective structure that would protect a person from harm if the small unmanned aircraft were to crash into that structure. Reference: 14 CFR 107.39"
+    },
+    {
+      "seq": 51,
+      "answer": "B",
+      "explanation": "No person may manipulate the flight controls of a small unmanned aircraft system or act as a remote pilot-in-command, visual observer, or direct participant in the operation of the small unmanned aircraft if he or she knows or has reason to know that he or she has a physical or mental condition that would interfere with the safe operation of the small unmanned aircraft system. Reference: 14 CFR 107.17"
+    },
+    {
+      "seq": 52,
+      "answer": "B",
+      "explanation": "The remote PIC also has a responsibility to remain clear of and yield right of way to all other aircraft, manned or unmanned, and avoid other potential hazards that may affect the remote PIC's operation of the aircraft. Reference: 14 CFR 107.37"
+    },
+    {
+      "seq": 53,
+      "answer": "A",
+      "explanation": "No report is required because the damage can be repaired for less than $500. A report is required only when damage to any property, other than the small UA, is greater than $500 to repair or replace the property (whichever is lower). The cost of the sUAS is not considered when determining if an event is considered to be an accident or incident. Reference: 14 CFR 107.9, AC 107-2"
+    },
+    {
+      "seq": 54,
+      "answer": "C",
+      "explanation": "The remote PIC is ultimately responsible for assessing the needs of the operation and preparing sufficient support crew members to ensure the safety of the operation. Reference: 14 CFR 107.12"
+    },
+    {
+      "seq": 55,
+      "answer": "B",
+      "explanation": "The holder of a remote pilot certificate who has made a change in his or her permanent mailing address may not, after 30 days from the date moved, exercise the privileges of his or her certificate unless he or she has notified in writing the FAA Airmen Certificate Branch Reference: 14 CFR 107.77"
+    },
+    {
+      "seq": 56,
+      "answer": "A",
+      "explanation": "No person may act or attempt to act as a crew member of a sUAS within 8 hours after the consumption of any alcoholic beverage. Remember \"8 hours bottle to throttle\" Reference: 14 CFR 107.27, 91.17"
+    },
+    {
+      "seq": 57,
+      "answer": "B",
+      "explanation": "The sUAS cannot be flown higher than 400 feet AGL unless flown within a 400-foot radius of a structure and is not flown higher than 400 feet above the structure's immediate upper-most limit. Reference: 14 CFR 107.51"
+    },
+    {
+      "seq": 58,
+      "answer": "B",
+      "explanation": "A non-certified person may manipulate the controls of the sUAS only if he or she is under the direct supervision of the remote PIC. Reference: 14 CFR 107.12"
+    },
+    {
+      "seq": 59,
+      "answer": "C",
+      "explanation": "The remote pilot operating a sUAS must yield right-of-way to all other manned aircraft, including aircraft operating on the surface of the aircraft. Reference: 14 CFR 107.37"
+    },
+    {
+      "seq": 60,
+      "answer": "A",
+      "explanation": "Part 107 a sUAS operations require minimum visibility of 3 SM and the minim distance from clouds must be no less than 500 feet below the cloud and 2000 feet horizontally from the cloud. To maintain 500 feet below the cloud, you must have a 900 foot ceiling to be able to operate to the maximum 400 AGL, or a ceiling that would allow the sUAS to operate at a lower AGL altitude. Reference: 14 CFR 107.51"
+    },
+    {
+      "seq": 61,
+      "answer": "B",
+      "explanation": "This a sUAS operation is not subject to FAA sUAS regulations because the sUAS operation is recreational in nature. Part 101 details the regulations pertinent to model aircraft and hobby operations. Reference: 14 CFR Part 107.3"
+    },
+    {
+      "seq": 62,
+      "answer": "B",
+      "explanation": "You may not operate a small unmanned aircraft directly over another person unless that person is directly involved in the operation (such as a visual observer or other crew member) or within a safe cover, such as inside a stationary vehicle or a protective structure that would protect a person from harm if the small unmanned aircraft were to crash into that structure. Reference: 14 CFR 107.39"
+    },
+    {
+      "seq": 63,
+      "answer": "A",
+      "explanation": "This a sUAS operation is subject to 14 CFR Part 107 because the compensation (money or otherwise) makes the operation commercial in nature Reference: 14 CFR 107.3"
+    },
+    {
+      "seq": 64,
+      "answer": "B",
+      "explanation": "Prior to flight, the remote PIC must ensure that all persons directly participating in the small unmanned aircraft operation are informed about the operating conditions, emergency procedures, contingency procedures, roles and responsibilities, and potential hazards. Reference: 14 CFR 107.49, AC 107-2"
+    },
+    {
+      "seq": 65,
+      "answer": "B",
+      "explanation": "An autonomous operation does not negate the requirement for a remote PIC. An autonomous operation is generally considered an operation in which the remote pilot inputs a flight plan into the CS, which sends it to the autopilot on the small UA. Reference: AC 107-2"
+    },
+    {
+      "seq": 66,
+      "answer": "A",
+      "explanation": "This scenario is not compliant with Part 107. Visual aids such as binoculars may be used only momentarily to enhance situational awareness. They may not be used during the duration of the operation. Reference: 14 CFR 107.31"
+    },
+    {
+      "seq": 67,
+      "answer": "C",
+      "explanation": "The remote PIC is ultimately responsible for assessing the needs of the operation and preparing sufficient support crew members to ensure the safety of the operation. Reference: 14 CFR 107.12"
+    },
+    {
+      "seq": 68,
+      "answer": "B",
+      "explanation": "A conviction for the violation of any Federal or State statute relating to the growing, processing, manufacture, sale, disposition, possession, transportation, or importation of narcotic drugs, marijuana, or depressant or stimulant drugs or substances is grounds for suspension or revocation of a remote pilot certificate with a small UAS rating. Reference: 14 CFR 107.57"
+    },
+    {
+      "seq": 69,
+      "answer": "B",
+      "explanation": "A remote pilot may not act as pilot-in-command of a sUAS at night. Night is defined as the time between the end of evening civil twilight and the beginning of morning civil twilight. Morning civil twilight is the period 30 minutes prior to sunrise until sunrise. This means you can launch your sUAS operation 30 minutes prior to sunrise. Reference: 14 CFR 107.29"
+    },
+    {
+      "seq": 70,
+      "answer": "A",
+      "explanation": "Part 107 addresses a sUAS operations of certain civil small unmanned aircraft within the National Airspace System. Reference: 14 CFR Part 107"
+    },
+    {
+      "seq": 71,
+      "answer": "B",
+      "explanation": "A remote pilot-in-command, owner, or person manipulating the flight controls of a small unmanned aircraft system must, upon request, make available to the Administrator: (1) the remote pilot certificate with a small UAS rating; and (2) any other document, record, or report required. Reference: 14 CFR 107.7"
+    },
+    {
+      "seq": 72,
+      "answer": "A",
+      "explanation": "The Pilot's Handbook of Aeronautical Knowledge (FAA-H-8083-25) provide information on the physiological effects of alcohol, prescription drugs, and over-the-counter medications. Reference: FAA-H-8083-25"
+    },
+    {
+      "seq": 73,
+      "answer": "C",
+      "explanation": "A conviction for the violation of any Federal or State statute relating to the growing, processing, manufacture, sale, disposition, possession, transportation, or importation of narcotic drugs, marijuana, or depressant or stimulant drugs or substances is grounds for denial of an application for a remote pilot certificate with a small UAS rating for a period of up to 1 year after the date of that act. Reference: 14 CFR 107.57"
+    },
+    {
+      "seq": 74,
+      "answer": "A",
+      "explanation": "The remote pilot operating a sUAS must yield right-of-way to all other manned aircraft, including aircraft operating on the surface of the airport. Reference: 14 CFR 107.37"
+    },
+    {
+      "seq": 75,
+      "answer": "A",
+      "explanation": "The sUAS cannot be flown faster than a ground speed of 87 knots (100 miles per hour) and must be operated below 400 feet. Reference: 14 CFR 107.51"
+    },
+    {
+      "seq": 76,
+      "answer": "A",
+      "explanation": "No items may be dropped from the small unmanned aircraft in a manner that creates undue hazard to persons or property. Reference: 14 CFR 107.23"
+    },
+    {
+      "seq": 77,
+      "answer": "C",
+      "explanation": "Report any a sUAS accident to the FAA within 10 days if it results in serious injury, loss of consciousness, or repairs costing over $500. Reference: 14 CFR 107.9"
+    },
+    {
+      "seq": 78,
+      "answer": "C",
+      "explanation": "The sUAS cannot be flown higher than 400 feet AGL unless flown within a 400-foot radius of a structure and no higher than 400 feet above the structure's immediate uppermost limit. One of the tower sets south of the SUX airport shows a tower at 402 feet AGL; you may operate over the top of these towers no higher than 802 feet AGL. Reference: 14 CFR 107.51 and Sectional Chart Legend"
+    },
+    {
+      "seq": 79,
+      "answer": "B",
+      "explanation": "A remote pilot-in-command, owner, or person manipulating the flight controls of a small unmanned aircraft system must, upon request, make available to the Administrator: (1) the remote pilot certificate with a small UAS rating; and (2) any other document, record, or report required. Reference: 14 CFR 107.7"
+    },
+    {
+      "seq": 80,
+      "answer": "B",
+      "explanation": "No person may act or attempt to act as a crew member of a sUAS within 8 hours after the consumption of any alcoholic beverage. Remember \"8 hours bottle to throttle.\" Reference: 14 CFR 107.17 and 91.17"
+    },
+    {
+      "seq": 81,
+      "answer": "A",
+      "explanation": "No person may continue flight of a small unmanned aircraft when he or she knows or has reason to know that the small unmanned aircraft system is no longer in a condition for safe operation. Reference: 14 CFR 107.15"
+    },
+    {
+      "seq": 82,
+      "answer": "A",
+      "explanation": "A refusal to submit to a test to indicate the percentage by weight of alcohol in the blood, when requested by a law enforcement officer, or a refusal to furnish or authorize the release of the test results requested by the Administrator, is grounds for denial of an application for a remote pilot certificate with a small UAS rating for a period of up to 1 year after the date of that refusal; or suspension or revocation of a remote pilot certificate with a small UAS rating. Reference: 14 CFR 107.59"
+    },
+    {
+      "seq": 83,
+      "answer": "B",
+      "explanation": "The remote PIC must be able to maneuver the sUAS to avoid a collision and prevent other aircraft from having to take evasive action. Reference: 14 CFR 107.37"
+    },
+    {
+      "seq": 84,
+      "answer": "A",
+      "explanation": "To conduct Category 1 operations, a remote PIC must use an sUAS that weighs 0.55 pounds or less on takeoff and throughout the durations of each operation under Category 1, including everything that is on board or otherwise attached to the aircraft Reference: 14 CFR 107.110"
+    },
+    {
+      "seq": 85,
+      "answer": "A",
+      "explanation": "Automatic Dependent Surveillance-Broadcast (ADS-B) equipment cannot be used to comply with the remote identification requirements of this part Reference: 14 CFR 89.125"
+    },
+    {
+      "seq": 86,
+      "answer": "C",
+      "explanation": "The person who submits the declaration of compliance (DOC) is responsible for making sure the sUAS is marked and listed on the DOC Reference: 14 CFR 107.160"
+    },
+    {
+      "seq": 87,
+      "answer": "A",
+      "explanation": "The remote PIC should determine if the lights will be turned on and what strength. While operating as remote PIC, avoid direct eye contact with lighting to avoid ruining your night vision Reference: 14 CFR 107.29"
+    },
+    {
+      "seq": 88,
+      "answer": "B",
+      "explanation": "To be eligible to operate over human beings under category 3, the sUAS must meet a means of compliance (MOC) and be listed on a current declaration of compliance (DOC) with the FAA and display a label on the sUAS indicating category 3 eligibility Reference: 14 CFR 107.125"
+    },
+    {
+      "seq": 89,
+      "answer": "C",
+      "explanation": "To operate under Part 107 within the Unites States, a civil sUAS must have an effective US certificate of Aircraft Registration issued to its owner, the second copy of the Aircraft Registration Application as described by 14 CFR 47.31(c), a certificate of Aircraft Registration as provided by Part 48, or a registration certification issued under the laws of a foreign country. Reference: 14 CFR 107"
+    }
+  ]
+}
