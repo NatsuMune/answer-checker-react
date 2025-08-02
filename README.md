@@ -92,3 +92,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Deployment
 
 To deploy this application to GitHub Pages, please follow the instructions in [DEPLOYMENT.md](DEPLOYMENT.md).
+
+## GitHub Pages Fix
+
+The application has been configured to correctly load data files when deployed to GitHub Pages. The data files are now accessed using the base URL to ensure they work correctly in both development and production environments.
