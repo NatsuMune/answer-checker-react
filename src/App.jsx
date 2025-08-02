@@ -113,7 +113,7 @@ function App() {
   // Load a specific question set
   const loadQuestionSet = async (setName) => {
     try {
-      const response = await fetch(`/data/${setName}.json`);
+      const response = await fetch(`${import.meta.env.BASE_URL}data/${setName}.json`);
       if (!response.ok) {
         throw new Error(`Failed to load ${setName}.json`);
       }
