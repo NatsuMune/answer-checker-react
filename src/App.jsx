@@ -13,6 +13,7 @@ function App() {
   const [isCorrect, setIsCorrect] = useState(false);
   const [explanation, setExplanation] = useState('');
   const [loading, setLoading] = useState(true);
+  const [wrongAnswers, setWrongAnswers] = useState({});
 
   // Load available question sets on component mount
   useEffect(() => {
@@ -25,6 +26,7 @@ function App() {
     };
     loadQuestionSets();
     loadUserSelections();
+    loadWrongAnswers();
   }, []);
 
   // Load the first question set when component is ready
@@ -47,6 +49,19 @@ function App() {
     }
   };
 
+  // Load wrong answers from localStorage
+  const loadWrongAnswers = () => {
+    try {
+      const saved = localStorage.getItem("answerCheckerWrongAnswers");
+      if (saved) {
+        setWrongAnswers(JSON.parse(saved));
+      }
+    } catch (error) {
+      console.error("Error loading wrong answers:", error);
+      setWrongAnswers({});
+    }
+  };
+
   // Save user selections to localStorage
   const saveUserSelections = (selections) => {
     try {
@@ -54,6 +69,23 @@ function App() {
     } catch (error) {
       console.error("Error saving user selections:", error);
     }
+  };
+
+  // Save wrong answers to localStorage
+  const saveWrongAnswers = (wrongAnswers) => {
+    try {
+      localStorage.setItem("answerCheckerWrongAnswers", JSON.stringify(wrongAnswers));
+    } catch (error) {
+      console.error("Error saving wrong answers:", error);
+    }
+  };
+
+  // Delete a wrong answer entry
+  const handleDeleteWrongAnswer = (key) => {
+    const newWrongAnswers = { ...wrongAnswers };
+    delete newWrongAnswers[key];
+    setWrongAnswers(newWrongAnswers);
+    saveWrongAnswers(newWrongAnswers);
   };
 
   // Reset user selections for the current question set
@@ -143,6 +175,23 @@ function App() {
     setIsCorrect(correct);
     setExplanation(currentQuestion.explanation);
     setShowResult(true);
+
+    // Record wrong answers
+    if (!correct) {
+      const wrongAnswerKey = `${currentSetName}-${currentQuestion.seq}`;
+      const newWrongAnswers = {
+        ...wrongAnswers,
+        [wrongAnswerKey]: {
+          seq: currentQuestion.seq,
+          question: currentQuestion.question,
+          userAnswer,
+          correctAnswer: currentQuestion.answer,
+          explanation: currentQuestion.explanation
+        }
+      };
+      setWrongAnswers(newWrongAnswers);
+      saveWrongAnswers(newWrongAnswers);
+    }
   };
 
   // Navigate to previous question
@@ -285,6 +334,42 @@ function App() {
           </div>
         )}
       </main>
+      
+      {/* Wrong Answers Section */}
+      <div className="wrong-answers-section">
+        <h2>Wrong Answers Review</h2>
+        {Object.keys(wrongAnswers).length > 0 ? (
+          <div className="wrong-answers-list">
+            {Object.entries(wrongAnswers)
+              .filter(([key]) => key.startsWith(currentSetName))
+              .map(([key, wrongAnswer]) => (
+                <div key={key} className="wrong-answer-item">
+                  <div className="wrong-answer-header">
+                    <h3>Question {wrongAnswer.seq}</h3>
+                    <button 
+                      className="delete-wrong-answer" 
+                      onClick={() => handleDeleteWrongAnswer(key)}
+                    >
+                      ×
+                    </button>
+                  </div>
+                  <div className="wrong-answer-question">
+                    <strong>Question:</strong> {wrongAnswer.question}
+                  </div>
+                  <div className="wrong-answer-details">
+                    <span className="your-answer">Your answer: {wrongAnswer.userAnswer}</span>
+                    <span className="correct-answer">Correct answer: {wrongAnswer.correctAnswer}</span>
+                  </div>
+                  <div className="wrong-answer-explanation">
+                    <strong>Explanation:</strong> {wrongAnswer.explanation}
+                  </div>
+                </div>
+              ))}
+          </div>
+        ) : (
+          <p className="no-wrong-answers">No wrong answers recorded yet for this question set.</p>
+        )}
+      </div>
     </div>
   );
 }
